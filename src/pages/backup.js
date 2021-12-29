@@ -88,6 +88,7 @@ const IndexPage = () => {
               <p className="mt-3">
               From Aug. 2017 to May 2021, I was employed as an instructor a instructor in Department of Electrical Engineering at University of Colorado Denver. From Aug. 2018 to May 2021, I was a instructor in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver. My responsibility was to design and teach courses and labs related to computer engineering and electrical engineering. Started from Jan. 2021, I has been employed as an senior instructor at JulyEdu. My online courses include advanced course of computer vision, graph neural networks, object detection, human pose estimation, object tracking, SLAM, C++, et al. 
               </p>
+              <p className="mt-2 text-gray-400">Department of Electrical and Computer Engineering, Carnegie Mellon University</p>
             </div>
           </div>
 
