@@ -78,6 +78,7 @@ const IndexPage = () => {
             </div>
             <div className="mr-5 text-sm text-gray-300">
               <a href="#educations">Educations</a>
+            </div>
             <div className="mr-5 text-sm text-gray-300">
               <a href="#teaching">Teaching Experiences</a>
             </div>
