@@ -130,10 +130,11 @@ const IndexPage = () => {
               <ul className="list-disc">
                 <li>[Jan 20, 2022] <b>NEW:</b> Submitted two papers to ICML 2022.</li>
                 <li>[Dec 18, 2021] Received my Ph.D. degree.</li>
-                <li>[August 1, 2021] One paper published to Journal of Geophysical Research Letters. </li>
-                <li>[April 12, 2021] Joined Moffett AI</li>
-                <li>[Nov 1, 2020] One paper published to Journal of Computers and Electronics in Agriculture. </li>
-                <li>[March 1, 2020] One paper published to Journal of neuroscience method. </li>
+                <li>[Aug 01, 2021] One paper published to Journal of Geophysical Research Letters. </li>
+                <li>[Apr 12, 2021] Joined Moffett AI, Los Altos, CA.</li>
+                <li>[Nov 01, 2020] One paper published to Journal of Computers and Electronics in Agriculture. </li>
+                <li>[Mar 01, 2020] One paper published to Journal of neuroscience method. </li>
+                <li>[Apr 24, 2019] One paper accepted to Science and Information Conference</li>
               </ul>
             </div>
           </div>
