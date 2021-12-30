@@ -70,7 +70,21 @@ const IndexPage = () => {
             <div className="mr-5 text-sm text-gray-300">
               <a href="#publications">Publications</a>
             </div>
-            <div className="mr-5 text-sm text-gray-300">Group</div>
+            <div className="mr-5 text-sm text-gray-300">
+              <a href="#Research Interest">Research Interest</a>
+            </div>
+            <div className="mr-5 text-sm text-gray-300">
+              <a href="#News">News</a>
+            </div>
+            <div className="mr-5 text-sm text-gray-300">
+              <a href="#Educations">Educations</a>
+            </div>
+            <div className="mr-5 text-sm text-gray-300">
+              <a href="#Recent Publications">Recent Publications</a>
+            </div>
+            <div className="mr-5 text-sm text-gray-300">
+              <a href="#Teaching Experiences">Teaching Experiences</a>
+            </div>
           </div>
         </div>
       </div>
