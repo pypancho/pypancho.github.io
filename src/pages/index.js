@@ -66,7 +66,9 @@ const IndexPage = () => {
       <div className="bg-black	h-12 text-white">
         <div className="max-w-screen-md max-w-screen-lg mx-auto px-5">
           <div className="h-12 flex flex-row flex-wrap content-center items-baseline">
-            <div className="mr-5 font-bold">Yan Pang</div>
+            <div className="mr-5 font-bold">
+            <a href="#home">Yan Pang</a>
+            </div>
             <div className="mr-5 text-sm text-gray-300">
               <a href="#publications">Publications</a>
             </div>
@@ -85,6 +87,7 @@ const IndexPage = () => {
           </div>
         </div>
       </div>
+      <div id="home"></div>
       <div>
         <div className="max-w-screen-md max-w-screen-lg mx-auto px-5 py-16">
 
