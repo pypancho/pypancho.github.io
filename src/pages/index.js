@@ -81,12 +81,12 @@ const IndexPage = () => {
             <div className="">
               <img className="w-60" src="https://stycj1ftsgu3402131mt29kl-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/C006T000263-Infographic-02-moffett.png"></img>
             </div>
-            <div className="flex-1 ml-3 font-semibold text-sm">
-              <p>
+            <div className="flex-1 ml-3">
+              <p className="font-semibold text-sm" >
               I am currently a machine learning scientist in Moffett AI, San Jose, CA. Prior to Moffett, I was fortunate to be a Ph.D student (2017-2019) in University of Colorado (2017-2021), advised by Prof. Chao Liu. My research interests span machine learning, computer vision, efficient deep learning, etc.
               </p>
               <p className="mt-3">
-              From Aug. 2017 to May 2021, I was employed as an instructor a instructor in Department of Electrical Engineering at University of Colorado Denver. From Aug. 2018 to May 2021, I was a instructor in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver. My responsibility was to design and teach courses and labs related to computer engineering and electrical engineering. Started from Jan. 2021, I has been employed as an senior instructor at JulyEdu. My online courses include advanced course of computer vision, graph neural networks, object detection, human pose estimation, object tracking, SLAM, C++, et al. 
+              From Aug. 2017 to May 2021, I was an <b>instructor</b> in Department of Electrical Engineering at University of Colorado Denver. From Aug. 2018 to May 2021, I was a <b>instructor</b> in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver. My responsibility was to design and teach courses and labs related to computer engineering and electrical engineering. Started from Jan. 2021, I has been employed as an <b>senior instructor</b> at JulyEdu. My online courses relate to deep learning for computer vision, et al. 
               </p>
             </div>
           </div>
@@ -115,13 +115,30 @@ const IndexPage = () => {
             <div className="text-blue-800	text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Dec 13, 2021] New: I will give a talk/lecture on 2d3d.ai invited by Peter Naftaliev to systematically introduce our recent works on Knowledge Distillation. Please join us if you are interested in this topic. More details will be available soon.</li>
-                <li>[Dec 1, 2021] Two papers accepted to AAAI 2022.</li>
-                <li>[Oct 31, 2021] One paper accepted to NeurIPS 2021, AI for Science workshop, one paper accepted to ICCV 2021, one paper accepted to ACM MM 2021 (Oral), and one paper accepted to TIP 2021.
-                </li>
+                <li>[Jan 20, 2022] <b>NEW:</b> Submitted two papers to ICML 2022.</li>
+                <li>[Dec 18, 2021] Received my Ph.D. degree.</li>
+                <li>[August 1, 2021] One paper published to Journal of Geophysical Research Letters </li>
+                <li>[April 12, 2021] Joined Moffett AI</li>
+                <li>[Nov 1, 2020] One paper published to Journal of Computers and Electronics in Agriculture </li>
+                <li>[March 1, 2020] One paper published to Journal of neuroscience method </li>
               </ul>
             </div>
           </div>
+
+
+          <div>
+            <div className="text-blue-800	text-xl font-bold">Educations</div>
+            <div className="text-sm pl-10 py-3">
+              <ul className="list-disc">
+                <li>2017.08 - 2021.12, University of Colorado, Dept. of Electrical Engineering, Ph.D.</li>
+                <li>2015.08 - 2017.05, University of Wyoming, Dept. of Electrical and Computer Engineering, Ph.D. Student</li>
+                <li>2010.09 - 2013.05, Politecnico di Torino, Dept. of Electrical Engineering, Master</li>
+                <li>2005.09 - 2009.05, Henan Polytechnic University, Dept. of Automation, Bachelor</li>
+              </ul>
+            
+            </div>
+          </div>
+
 
           <div id="publications">
             <div className="text-blue-800	text-xl font-bold">Recent Publications</div>
@@ -140,43 +157,15 @@ const IndexPage = () => {
             </div>
           </div>
 
-          <div>
-            <div className="text-blue-800	text-xl font-bold">Academic Activities</div>
-            <div className="text-sm pl-10 py-3">
-              <ul className="list-disc">
-                <li>Conference reviewer: ICLR 2022, NeurIPS 2021, ICML 2021, CVPR 2021, AAAI 2021, WACV 2021, NeurIPS 2020, ECCV 2020, BMVC 2020, IJCAI 2020, CVPR 2020, AAAI 2020, ICCV 2019, CVPR 2019, AAAI 2019, CVPR 2018, ACCV 2018, NIPS 2016.</li>
-                <li>Journal reviewer: TPAMI, IJCV, TIP, TMM, JVCI, etc.</li>
-              </ul>
-            </div>
-          </div> 
+          
 
           <div>
-            <div className="text-blue-800	text-xl font-bold">Awards and Honors</div>
+            <div className="text-blue-800	text-xl font-bold">Teaching Experiences</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>CVPR 2019 Doctoral Consortium travel award. Mentor: Prof. Trevor Darrell.</li>
-                <li>ICLR 2019 travel award, 2019</li>
-                <li>AAAI 2019 student scholarship award, 2018</li>
-              </ul>
-            </div>
-          </div> 
-
-          <div>
-            <div className="text-blue-800	text-xl font-bold">Competitions</div>
-            <div className="text-sm pl-10 py-3">
-              <ul className="list-disc">
-                <li>MSR-VTT Challenge (video captioning): ranked 4th in human evaluation and ranked 5th in the automatic evaluation metrics (Team leader), 2016</li>
-                <li>Top 10% in Kaggle Competition of Right Whale Recognition, 2016</li>
-                <li>Second Prize in DataCastle Competition of the Verification Code Recognition, 2016</li>
-              </ul>
-            </div>
-          </div> 
-
-          <div>
-            <div className="text-blue-800	text-xl font-bold">Teaching Assistant</div>
-            <div className="text-sm pl-10 py-3">
-              <ul className="list-disc">
-                <li>2015.9- 2016.1, Fudan University, COMP120008.02, C++ language programming</li>
+                <li>2020.01 - Present, JulyEdu, couses include advanced course of computer vision, graph neural networks, object detection, human pose estimation, object tracking, SLAM, C++, et al.</li>
+                <li>2018.08 - 2021.05, Metropolitan State University of Denver, EET/CPE2350 Advanced Technical Programming, EET/CPE3330	Digital Circuits/Systems II，EET/CPE4020 Digital Circuits/Systems III, CPE4600 VLSI Circuits and Systems.</li>
+                <li>2018.08 - 2021.05, University of Colorado Denver, ELEC4561 Hardware and Software Interface, ELEC2531 Logic Lab.</li>
               </ul>
             </div>
           </div>
