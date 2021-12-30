@@ -79,11 +79,11 @@ const IndexPage = () => {
 
           <div className="flex flex-row ">
             <div className="">
-              <img className="w-60" src="https://stycj1ftsgu3402131mt29kl-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/C006T000263-Infographic-02-moffett.png"></img>
+              <img className="w-60" src="https://filescdn.proginn.com/ae24d822192b900082c72e4ad2460de7/ae6cdee2964ea960efb84b922e2475a0.webp"></img>
             </div>
             <div className="flex-1 ml-3">
               <p className="font-semibold text-sm" >
-              I am currently a machine learning scientist in Moffett AI, San Jose, CA. Prior to Moffett, I was fortunate to be a Ph.D student (2017-2019) in University of Colorado (2017-2021), advised by Prof. Chao Liu. My research interests span machine learning, computer vision, efficient deep learning, etc.
+              I am currently a machine learning scientist in Moffett AI, San Jose, CA. Prior to Moffett, I was fortunate to be a Ph.D student in University of Colorado (2017-2021), advised by Prof. Chao Liu. My research interests span machine learning, computer vision, efficient deep learning, etc.
               </p>
               <p className="mt-3">
               From Aug. 2017 to May 2021, I was an <b>instructor</b> in Department of Electrical Engineering at University of Colorado Denver. From Aug. 2018 to May 2021, I was a <b>instructor</b> in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver. My responsibility was to design and teach courses and labs related to computer engineering and electrical engineering. Started from Jan. 2021, I has been employed as an <b>senior instructor</b> at JulyEdu. My online courses relate to deep learning for computer vision, et al. 
@@ -117,10 +117,10 @@ const IndexPage = () => {
               <ul className="list-disc">
                 <li>[Jan 20, 2022] <b>NEW:</b> Submitted two papers to ICML 2022.</li>
                 <li>[Dec 18, 2021] Received my Ph.D. degree.</li>
-                <li>[August 1, 2021] One paper published to Journal of Geophysical Research Letters </li>
+                <li>[August 1, 2021] One paper published to Journal of Geophysical Research Letters. </li>
                 <li>[April 12, 2021] Joined Moffett AI</li>
-                <li>[Nov 1, 2020] One paper published to Journal of Computers and Electronics in Agriculture </li>
-                <li>[March 1, 2020] One paper published to Journal of neuroscience method </li>
+                <li>[Nov 1, 2020] One paper published to Journal of Computers and Electronics in Agriculture. </li>
+                <li>[March 1, 2020] One paper published to Journal of neuroscience method. </li>
               </ul>
             </div>
           </div>
@@ -164,8 +164,8 @@ const IndexPage = () => {
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
                 <li>2020.01 - Present, JulyEdu, couses include advanced course of computer vision, graph neural networks, object detection, human pose estimation, object tracking, SLAM, C++, et al.</li>
-                <li>2018.08 - 2021.05, Metropolitan State University of Denver, EET/CPE2350 Advanced Technical Programming, EET/CPE3330	Digital Circuits/Systems II，EET/CPE4020 Digital Circuits/Systems III, CPE4600 VLSI Circuits and Systems.</li>
-                <li>2018.08 - 2021.05, University of Colorado Denver, ELEC4561 Hardware and Software Interface, ELEC2531 Logic Lab.</li>
+                <li>2018.08 - 2021.05, Metropolitan State University of Denver, EET/CPE 2350 Advanced Technical Programming, EET/CPE 3330	Digital Circuits/Systems II，EET/CPE 4020 Digital Circuits/Systems III, CPE 4600 VLSI Circuits and Systems.</li>
+                <li>2018.08 - 2021.05, University of Colorado Denver, ELEC 4561 Hardware and Software Interface, ELEC 2531 Logic Lab.</li>
               </ul>
             </div>
           </div>
