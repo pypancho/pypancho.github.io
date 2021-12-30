@@ -71,19 +71,15 @@ const IndexPage = () => {
               <a href="#publications">Publications</a>
             </div>
             <div className="mr-5 text-sm text-gray-300">
-              <a href="#Research Interest">Research Interest</a>
+              <a href="#interests">Research Interests</a>
             </div>
             <div className="mr-5 text-sm text-gray-300">
-              <a href="#News">News</a>
+              <a href="#news">News</a>
             </div>
             <div className="mr-5 text-sm text-gray-300">
-              <a href="#Educations">Educations</a>
-            </div>
+              <a href="#educations">Educations</a>
             <div className="mr-5 text-sm text-gray-300">
-              <a href="#Recent Publications">Recent Publications</a>
-            </div>
-            <div className="mr-5 text-sm text-gray-300">
-              <a href="#Teaching Experiences">Teaching Experiences</a>
+              <a href="#teaching">Teaching Experiences</a>
             </div>
           </div>
         </div>
@@ -110,8 +106,9 @@ const IndexPage = () => {
             <div>Email: yanpangee@gmail.com | pang.yan@moffett.ai</div>
           </div>
 
+          <div id="interests"></div>
           <div className="mt-12">
-            <div className="text-blue-800	text-xl font-bold">Research Interest</div>
+            <div className="text-blue-800	text-xl font-bold">Research Interests</div>
             <p className="text-sm">My research focuses on the broad areas of machine learning, deep learning and their applications on computer vision. Specifically, I focus on </p>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
@@ -125,6 +122,7 @@ const IndexPage = () => {
             </div>
           </div>
 
+          <div id="news"></div>
           <div>
             <div className="text-blue-800	text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
@@ -139,7 +137,7 @@ const IndexPage = () => {
             </div>
           </div>
 
-
+          <div id="educations"></div>
           <div>
             <div className="text-blue-800	text-xl font-bold">Educations</div>
             <div className="text-sm pl-10 py-3">
@@ -172,7 +170,7 @@ const IndexPage = () => {
           </div>
 
           
-
+          <div id="teaching"></div>
           <div>
             <div className="text-blue-800	text-xl font-bold">Teaching Experiences</div>
             <div className="text-sm pl-10 py-3">
@@ -186,8 +184,8 @@ const IndexPage = () => {
         </div>
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
-          <div>© 2021 Zhiqiang Shen. All rights reserved</div>
-          <div>(Last update: May 9, 2021.)</div>
+          <div>© 2022 Yan Pang. All rights reserved</div>
+          <div>(Last update: Jan 20, 2022.)</div>
         </div>
       </div>
     </main>
