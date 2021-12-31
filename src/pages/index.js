@@ -93,7 +93,7 @@ const IndexPage = () => {
 
           <div className="flex flex-row ">
             <div className="">
-              <img className="w-60" src="https://filescdn.proginn.com/ae24d822192b900082c72e4ad2460de7/ae6cdee2964ea960efb84b922e2475a0.webp"></img>
+              <img className="w-60" src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.18169-9/25592070_1631660490227546_2062757211614982881_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_ohc=AFQ7SrCN-AEAX-PcKjt&_nc_ht=scontent.fapa1-1.fna&oh=00_AT9Jq3fJ5JUTwhuD-vmZ_p64YDXDxqGgYnIF4TKhvPl7Yw&oe=61F3E145"></img>
             </div>
             <div className="flex-1 ml-3">
               <p className="font-semibold text-sm" >
@@ -137,7 +137,7 @@ const IndexPage = () => {
                 <li>[Apr 12, 2021] Joined Moffett AI, Los Altos, CA.</li>
                 <li>[Nov 01, 2020] One paper published to Journal of Computers and Electronics in Agriculture. </li>
                 <li>[Mar 01, 2020] One paper published to Journal of neuroscience method. </li>
-                <li>[Apr 24, 2019] One paper accepted to Science and Information Conference</li>
+                <li>[Apr 24, 2019] One paper accepted to Science and Information Conference.</li>
               </ul>
             </div>
           </div>
