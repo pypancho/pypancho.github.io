@@ -55,25 +55,21 @@ const links = [
     paper: "https://doi.org/10.1007/978-3-030-17795-9_25",
     img: "https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-17795-9_25/MediaObjects/473237_1_En_25_Fig3_HTML.png",
     abstract: "Object segmentation is used in multiple image processing applications. It is generally difficult to perform the object segmentation fully automatically. Most object segmentation schemes are developed based on prior information, training process, existing annotation, special mechanical settings or the human visual system modeling. We proposed a fully automatic segmentation method not relying on any training/learning process, existing annotation, special settings or the human visual system. The automatic object segmentation is accomplished by an objective object weight detection and modified GrabCut segmentation. The segmentation approach we propose is developed only based on the inherent image features. It is independent with various datasets and could be applied to different scenarios. The segmentation result is illustrated by testing a large dataset."
-    },
-
+  }
 ]
 
 // markup
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <div className="bg-black	h-12 text-white">
+      <div className="bg-black h-12 text-white fixed w-full">
         <div className="max-w-screen-md max-w-screen-lg mx-auto px-5">
           <div className="h-12 flex flex-row flex-wrap content-center items-baseline">
             <div className="mr-5 font-bold">
-            <a href="#home">Yan Pang</a>
+              <a href="#top">Yan Pang</a>
             </div>
             <div className="mr-5 text-sm text-gray-300">
-              <a href="#publications">Publications</a>
-            </div>
-            <div className="mr-5 text-sm text-gray-300">
-              <a href="#interests">Research Interests</a>
+              <a href="#interest">Research Interests</a>
             </div>
             <div className="mr-5 text-sm text-gray-300">
               <a href="#news">News</a>
@@ -82,15 +78,17 @@ const IndexPage = () => {
               <a href="#educations">Educations</a>
             </div>
             <div className="mr-5 text-sm text-gray-300">
+              <a href="#publications">Publications</a>
+            </div>
+            <div className="mr-5 text-sm text-gray-300">
               <a href="#teaching">Teaching Experiences</a>
             </div>
           </div>
         </div>
       </div>
-      <div id="home"></div>
+      <div id="top"></div>
       <div>
-        <div className="max-w-screen-md max-w-screen-lg mx-auto px-5 py-16">
-
+        <div className="max-w-screen-md max-w-screen-lg mx-auto px-5 py-16 pt-28">
           <div className="flex flex-row ">
             <div className="">
               <img className="w-60" src="https://pbs.twimg.com/media/FH6H1i4UUAEyhAN?format=jpg&name=medium"></img>
@@ -100,19 +98,21 @@ const IndexPage = () => {
               I am currently a machine learning scientist in Moffett AI, San Jose, CA. Prior to Moffett, I was fortunate to be a Ph.D student in University of Colorado (2017-2021), advised by Prof. Chao Liu. My research interests span machine learning, computer vision, efficient deep learning, etc.
               </p>
               <p className="mt-3">
-              From Aug. 2017 to May 2021, I was an <b>instructor</b> in Department of Electrical Engineering at University of Colorado Denver. From Aug. 2018 to May 2021, I was a <b>instructor</b> in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver. My responsibility was to design and teach courses and labs related to computer engineering and electrical engineering. Started from Jan. 2021, I has been employed as an <b>senior instructor</b> at JulyEdu. My online courses relate to deep learning for computer vision, et al. 
+              From Aug. 2017 to May 2021, I was an <b>instructor</b> in Department of Electrical Engineering at University of Colorado Denver. From Aug. 2018 to May 2021, I was a <b>instructor</b> in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver. My responsibility was to design and teach courses and labs related to computer engineering and electrical engineering. Started from Jan. 2021, I has been employed as an <b>senior instructor</b> at JulyEdu. My online courses relate to deep learning for computer vision, et al.
               </p>
+              <div className="mt-3 text-xs text-gray-600">
+                <div><span className="font-bold">Address:</span> 949 Sherwood Ave, Suite 200, Los Altos, CA 94022 | <span className="font-bold">Email:</span>: yanpangee@gmail.com | pang.yan@moffett.ai</div>
+              </div>
             </div>
           </div>
 
-          <div className="mt-5 text-xs text-gray-600">
+          {/* <div className="mt-5 text-xs text-gray-600">
             <div> 949 Sherwood Ave, Suite 200, Los Altos, CA 94022</div>
             <div>Email: yanpangee@gmail.com | pang.yan@moffett.ai</div>
-          </div>
+          </div> */}
 
-          <div id="interests"></div>
-          <div className="mt-12">
-            <div className="text-blue-800	text-xl font-bold">Research Interests</div>
+          <div id="interests" className="mt-12">
+            <div className="text-blue-800 text-xl font-bold">Research Interests</div>
             <p className="text-sm">My research focuses on the broad areas of machine learning, deep learning and their applications on computer vision. Specifically, I focus on </p>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
@@ -126,9 +126,8 @@ const IndexPage = () => {
             </div>
           </div>
 
-          <div id="news"></div>
-          <div>
-            <div className="text-blue-800	text-xl font-bold">News</div>
+          <div id="news">
+            <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
                 <li>[Jan 20, 2022] <b>NEW:</b> Submitted two papers to ICML 2022.</li>
@@ -137,14 +136,13 @@ const IndexPage = () => {
                 <li>[Apr 12, 2021] Joined Moffett AI, Los Altos, CA.</li>
                 <li>[Nov 01, 2020] One paper published to Journal of Computers and Electronics in Agriculture. </li>
                 <li>[Mar 01, 2020] One paper published to Journal of neuroscience method. </li>
-                <li>[Apr 24, 2019] One paper accepted to Science and Information Conference.</li>
+                <li>[Apr 24, 2019] One paper accepted to Science and Information Conference</li>
               </ul>
             </div>
           </div>
 
-          <div id="educations"></div>
-          <div>
-            <div className="text-blue-800	text-xl font-bold">Educations</div>
+          <div id="educations">
+            <div className="text-blue-800 text-xl font-bold">Educations</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
                 <li>2017.08 - 2021.12, University of Colorado, Dept. of Electrical Engineering, Ph.D.</li>
@@ -152,36 +150,39 @@ const IndexPage = () => {
                 <li>2010.09 - 2013.05, Politecnico di Torino, Dept. of Electrical Engineering, Master</li>
                 <li>2005.09 - 2009.05, Henan Polytechnic University, Dept. of Automation, Bachelor</li>
               </ul>
-            
             </div>
           </div>
-
 
           <div id="publications">
-            <div className="text-blue-800	text-xl font-bold">Recent Publications</div>
+            <div className="text-blue-800 text-xl font-bold">Recent Publications</div>
             <div className="py-3">
-              <div className="flex flex-row flex-wrap items-center">
-                <div>
-                  <img className="w-36" src="http://zhiqiangshen.com/projects/FKD/FKD.png"></img>
+              {links.map((link, id) =>
+                <div key={id} className="mb-8 flex flex-row flex-wrap items-center">
+                  <div className="w-60">
+                    <img className="w-60" src={link.img}></img>
+                  </div>
+                  <div className="ml-5 flex-1">
+                    <div>{link.author}</div>
+                    <div className="font-bold">{link.title}</div>
+                    <div>{link.jounal}</div>
+                    <div>
+                      <a className="text-blue-600 text-sm" href={link.paper} target="_blank">Paper Link</a>
+                    </div>
+                  </div>
+                  <div className="text-sm mt-3 text-gray-500">
+                    {link.abstract}
+                  </div>
                 </div>
-                <div className="ml-5">
-                  <div>Zhiqiang Shen, Eric Xing.</div>
-                  <div className="font-bold">A Fast Knowledge Distillation Framework for Visual Recognition</div>
-                  <div>Technical report.</div>
-                  <div>Project Page  |  Code & Models  |  arXiv Paper</div>
-                </div>
-              </div>
+              )}
             </div>
           </div>
 
-          
-          <div id="teaching"></div>
-          <div>
-            <div className="text-blue-800	text-xl font-bold">Teaching Experiences</div>
+          <div id="teaching">
+            <div className="text-blue-800 text-xl font-bold">Teaching Experiences</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
                 <li>2020.01 - Present, JulyEdu, couses include advanced course of computer vision, graph neural networks, object detection, human pose estimation, object tracking, SLAM, C++, et al.</li>
-                <li>2018.08 - 2021.05, Metropolitan State University of Denver, EET/CPE 2350 Advanced Technical Programming, EET/CPE 3330	Digital Circuits/Systems II，EET/CPE 4020 Digital Circuits/Systems III, CPE 4600 VLSI Circuits and Systems.</li>
+                <li>2018.08 - 2021.05, Metropolitan State University of Denver, EET/CPE 2350 Advanced Technical Programming, EET/CPE 3330 Digital Circuits/Systems II，EET/CPE 4020 Digital Circuits/Systems III, CPE 4600 VLSI Circuits and Systems.</li>
                 <li>2018.08 - 2021.05, University of Colorado Denver, ELEC 4561 Hardware and Software Interface, ELEC 2531 Logic Lab.</li>
               </ul>
             </div>
