@@ -12,16 +12,16 @@ const links = [
     author: "Yan Pang, Chao Liu",
     title: "Efficient-Dyn: Dynamic Graph Representation Learning via Event-based Temporal Sparse Attention Network",
     jounal: "International Conference on Machine Learning",
-    paper: "",
-    img: "",
+    paper: "Submitted to ICML 2022",
+    img: "https://pbs.twimg.com/media/FH6EkxaUUAMOTGJ?format=jpg&name=medium",
     abstract: "Static graph neural networks have been widely used in modeling and representation learning of graph structure data. However, many real-world problems, such as social networks, financial transactions, recommendation systems, etc., are dynamic, that is, nodes and edges are added or deleted over time. Therefore, in recent years, dynamic graph neural networks have received more and more attention from researchers. In this work, we propose a novel dynamic graph neural network, Efficient-Dyn. It adaptively encodes temporal information into a sequence of patches with an equal amount of temporal-topological structure. Therefore, while avoiding the use of snapshots to cause information loss, it also achieves a finer time granularity, which is close to what continuous networks could provide. In addition, we also designed a lightweight module, Sparse Temporal Transformer, to compute node representations through both structural neighborhoods and temporal dynamics. Since the fully-connected attention conjunction is simplified, the computation cost is far lower than the current state-of-the-arts. Link prediction experiments are conducted on both continuous and discrete graph datasets. Through comparing with several state-of-the-art graph embedding baselines, the experimental results demonstrate that Efficient-Dyn has a faster inference speed while having competitive performance.",
    },
    {
     author: "Yan Pang, Chao Liu",
     title: "Graph Decipher: A transparent dual-attention graph neural network to understand the message-passing mechanism for the node classification",
     jounal: "International Conference on Machine Learning",
-    paper: "",
-    img: "",
+    paper: "Submitted to ICML 2022",
+    img: "https://pbs.twimg.com/media/FH6EqNCVcAI8iTc?format=jpg&name=large",
     abstract: "Graph neural networks can be effectively applied to find solutions for many real-world problems across widely diverse fields. The success of graph neural networks is linked to the message-passing mechanism on the graph, however the message-aggregating behavior is still not entirely clear in most algorithms. To improve functionality, we propose a new transparent network called Graph Decipher to investigate the message-passing mechanism by prioritizing in two main components: the graph structure and node attributes, at the graph, feature, and global levels on a graph under the node classification task. However the computation burden now becomes the most significant issue because the relevance of both graph structure and node attributes are computed on a graph. In order to solve this issue, only relevant representative node attributes are extracted by graph feature filters, allowing calculations to be performed in a category-oriented manner. Experiments on seven datasets show that Graph Decipher achieves state-of-the-art performance while imposing a substantially lower computation burden under the node classification task. Additionally, since our algorithm has the ability to explore the representative node attributes by category, it is utilized to alleviate the imbalanced node classification problem on multi-class graph datasets.",
    },
   {
@@ -93,7 +93,7 @@ const IndexPage = () => {
 
           <div className="flex flex-row ">
             <div className="">
-              <img className="w-60" src="https://scontent.fapa1-1.fna.fbcdn.net/v/t1.18169-9/25592070_1631660490227546_2062757211614982881_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=0debeb&_nc_ohc=AFQ7SrCN-AEAX-PcKjt&_nc_ht=scontent.fapa1-1.fna&oh=00_AT9Jq3fJ5JUTwhuD-vmZ_p64YDXDxqGgYnIF4TKhvPl7Yw&oe=61F3E145"></img>
+              <img className="w-60" src="https://pbs.twimg.com/media/FH6EDQfUcAA1--I?format=jpg&name=900x900"></img>
             </div>
             <div className="flex-1 ml-3">
               <p className="font-semibold text-sm" >
