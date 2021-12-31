@@ -122,6 +122,9 @@ const IndexPage = () => {
                 <li>Multimodal Learning</li>
                 <li>Knowledge Distillation</li>
                 <li>Photography</li>
+                {/* <li>
+                  <a className="text-blue-600 text-sm" href="https://www.instagram.com/pypancho/" target="_blank">Photography</a>
+                </li> */}
               </ul>
             </div>
           </div>
