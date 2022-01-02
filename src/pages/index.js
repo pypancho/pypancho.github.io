@@ -9,7 +9,7 @@ const pageStyles = {
 // data
 const links = [
   {
-    author: "Yan Pang, Chao Liu",
+    author: <div><span className="font-bold">Yan Pang</span> Chao Liu </div>,
     title: "Efficient-Dyn: Dynamic Graph Representation Learning via Event-based Temporal Sparse Attention Network",
     jounal: "Submitted to ICML 2022",
     paper: "",
