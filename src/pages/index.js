@@ -9,7 +9,7 @@ const pageStyles = {
 // data
 const links = [
   {
-    author: <div><span className="font-bold">Yan Pang</span> Chao Liu </div>,
+    author: <div><span className="font-bold">Yan Pang</span>, Chao Liu </div>,
     title: "Efficient-Dyn: Dynamic Graph Representation Learning via Event-based Temporal Sparse Attention Network",
     jounal: "Submitted to ICML 2022",
     paper: "",
@@ -17,7 +17,7 @@ const links = [
     abstract: "Static graph neural networks have been widely used in modeling and representation learning of graph structure data. However, many real-world problems, such as social networks, financial transactions, recommendation systems, etc., are dynamic, that is, nodes and edges are added or deleted over time. Therefore, in recent years, dynamic graph neural networks have received more and more attention from researchers. In this work, we propose a novel dynamic graph neural network, Efficient-Dyn. It adaptively encodes temporal information into a sequence of patches with an equal amount of temporal-topological structure. Therefore, while avoiding the use of snapshots to cause information loss, it also achieves a finer time granularity, which is close to what continuous networks could provide. In addition, we also designed a lightweight module, Sparse Temporal Transformer, to compute node representations through both structural neighborhoods and temporal dynamics. Since the fully-connected attention conjunction is simplified, the computation cost is far lower than the current state-of-the-arts. Link prediction experiments are conducted on both continuous and discrete graph datasets. Through comparing with several state-of-the-art graph embedding baselines, the experimental results demonstrate that Efficient-Dyn has a faster inference speed while having competitive performance.",
    },
    {
-    author: "Yan Pang, Chao Liu",
+    author: <div><span className="font-bold">Yan Pang</span>, Chao Liu </div>,
     title: "Graph Decipher: A transparent dual-attention graph neural network to understand the message-passing mechanism for the node classification",
     jounal: "Submitted to ICML 2022",
     paper: "",
@@ -25,7 +25,7 @@ const links = [
     abstract: "Graph neural networks can be effectively applied to find solutions for many real-world problems across widely diverse fields. The success of graph neural networks is linked to the message-passing mechanism on the graph, however the message-aggregating behavior is still not entirely clear in most algorithms. To improve functionality, we propose a new transparent network called Graph Decipher to investigate the message-passing mechanism by prioritizing in two main components: the graph structure and node attributes, at the graph, feature, and global levels on a graph under the node classification task. However the computation burden now becomes the most significant issue because the relevance of both graph structure and node attributes are computed on a graph. In order to solve this issue, only relevant representative node attributes are extracted by graph feature filters, allowing calculations to be performed in a category-oriented manner. Experiments on seven datasets show that Graph Decipher achieves state-of-the-art performance while imposing a substantially lower computation burden under the node classification task. Additionally, since our algorithm has the ability to explore the representative node attributes by category, it is utilized to alleviate the imbalanced node classification problem on multi-class graph datasets.",
    },
   {
-    author: "Vijay Harid, Chao Liu, Yan Pang, Akimun Jannat Alvina, Mark Golkowski, Poorya Hosseini, Morris Cohen",
+    author: <div> Vijay Harid, Chao Liu, <span className="font-bold">Yan Pang</span>, Akimun Jannat Alvina, Mark Golkowski, Poorya Hosseini, Morris Cohen</div>,
     title: "Automated Large‐Scale Extraction of Whistlers Using Mask‐Scoring Regional Convolutional Neural Network",
     jounal: "Geophysical Research Letters",
     paper: "https://doi.org/10.1029/2021GL093819",
@@ -33,7 +33,7 @@ const links = [
     abstract: "Extremely and very low frequency (ELF/VLF) radio waves are generated from a variety of natural geophysical sources. Ground-based observations often contain signals of interest; however, the signals are typically immersed in a noisy environment due to lightning-generated sferics and additional anthropogenic sources. Although automated detection algorithms have been employed successfully in the past, extraction of arbitrary and broadband signal classes has been a challenge. In this work, we employ a mask-scoring regional convolutional neural network (MSRCNN) for automated extraction of whistlers from ground measurements at Palmer station, Antarctica. Statistics of several hundred thousand whistler receptions are evaluated to determine seasonal and diurnal variations at Palmer station along with strong correlations to lightning activity in the conjugate hemisphere. Although MSRCNN has been employed for whistler extraction in this work, the method has can be easily extended to other signal classes including chorus, hiss, and VLF triggered emissions.",
   },
   {
-    author: "Yan Pang, Yeyin Shi, Shancheng Gao, Feng Jiang, Arun-Narenthiran Veeranampalayam-Sivakumar, Laura Thompson, Joe Luck, Chao Liu",
+    author: <div><span className="font-bold">Yan Pang</span>, Yeyin Shi, Shancheng Gao, Feng Jiang, Arun-Narenthiran Veeranampalayam-Sivakumar, Laura Thompson, Joe Luck, Chao Liu</div>,
     title: "Improved crop row detection with deep neural network for early-season maize stand count in UAV imagery",
     jounal: "Computers and Electronics in Agriculture",
     paper: "https://doi.org/10.1016/j.compag.2020.105766",
@@ -41,7 +41,7 @@ const links = [
     abstract: "Stand counts is one of the most common ways farmers assess plant growth conditions and management practices throughout the season. The conventional method for early-season stand count is through manual inspection, which is time-consuming, laborious, and spatially limited in scope. In recent years, Unmanned Aerial Vehicles (UAV) based remote sensing has been widely used in agriculture to provide low-altitude, high spatial resolution imagery to assist decision making. In this project, we designed a system that uses geometric descriptor information with deep neural networks to determine early-season maize stands from relatively low spatial resolution (10 to 25 mm) aerial data, which covers a relatively large area (10 to 25 hectares). Instead of detecting individual crops in a row, we process the entire row at one time, which significantly reduces the requirements for the clarity of the crops. Besides, our new MaxArea Mask Scoring RCNN algorithm could segment crop-rows out in each patch image, regardless of the terrain conditions. The robustness of our scheme was tested on data collected at two different fields in different years. The accuracy of the estimated emergence rate reached up to 95.8%. Due to the high processing speed of the system, it has the potential for real-time applications in the future.",
   },
   {
-    author: "Yan Pang, Jake Christenson, Feng Jiang, Tim Lei, Remy Rhoades, Drew Kern, John A Thompson, Chao Liu",
+    author: <div><span className="font-bold">Yan Pang</span>, Jake Christenson, Feng Jiang, Tim Lei, Remy Rhoades, Drew Kern, John A Thompson, Chao Liu </div>,
     title: "Automatic detection and quantification of hand movements toward development of an objective assessment of tremor and bradykinesia in Parkinson's disease",
     jounal: "Journal of neuroscience methods",
     paper: "https://doi.org/10.1016/j.jneumeth.2019.108576",
@@ -49,7 +49,7 @@ const links = [
     abstract: "Classification of parkinsonian symptoms, including tremor and bradykinesia, require the application of validated clinical rating scales which are inherently subjective. In this study, we assessed an objective measure of parkinsonian symptomology using automated analysis of hand gestures. We constructed and evaluated a hand and finger motion capture apparatus and analysis pipeline that recorded hand/finger motion of control subjects and patients with Parkinson's disease. The detailed three-dimensional (3D) motion features of each finger joint was extracted by using Discrete Wavelet Transform (DWT). The severity of tremor for each finger joint was quantitated by analyzing the motion changes in the frequency domain on four types of motion from five patients and twenty-two control subjects. The proposed approach could distinguish the behavior of patients with Parkinson's disease and control subjects by analyzing the detailed motion features of their hands/fingers. Previously established methods to quantitate finger movement dynamics focus on speed and amplitude. In contrast, our approach measures unsupervised motion features, in real-time, using wavelet analysis, of each individual finger joint during active free movement. The proposed study provides an objective assessment of tremor and bradykinesia in Parkinson's disease. Accordingly, this may help movement disorder clinicians to detect, diagnose and monitor treatment efficacy in Parkinson's disease.",
   },
   {
-    author: "Feng Jiang, Yan Pang, ThienNgo N Lee, Chao Liu",
+    author: <div>Feng Jiang, <span className="font-bold">Yan Pang</span>, ThienNgo N Lee, Chao Liu </div>,
     title: "Automatic object segmentation based on grabcut",
     jounal: "Science and Information Conference",
     paper: "https://doi.org/10.1007/978-3-030-17795-9_25",
