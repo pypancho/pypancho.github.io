@@ -95,7 +95,7 @@ const IndexPage = () => {
             </div>
             <div className="flex-1 ml-3 mt-3 md:mt-0">
               <p className="font-semibold text-sm" >
-              I am currently a machine learning scientist in Moffett AI, San Jose, CA. Prior to Moffett, I was fortunate to be a Ph.D student in University of Colorado (2017-2021), advised by Prof. Chao Liu. My research interests span machine learning, computer vision, efficient deep learning, etc.
+              I am currently an associate professor in the Institute of Artificial Intelligence and Blockchain at Guangzhou University, China. Prior to Moffett, I was fortunate to be a Ph.D student in University of Colorado (2017-2021), advised by Prof. Chao Liu. My research interests span machine learning, computer vision, efficient deep learning, etc.
               </p>
               <p className="mt-3">
               From Aug. 2017 to May 2021, I was an <b>instructor</b> in Department of Electrical Engineering at University of Colorado Denver. From Aug. 2018 to May 2021, I was a <b>instructor</b> in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver. My responsibility was to design and teach courses and labs related to computer engineering and electrical engineering. Started from Jan. 2021, I has been employed as an <b>senior instructor</b> at JulyEdu. My online courses relate to deep learning for computer vision, et al.
@@ -107,8 +107,8 @@ const IndexPage = () => {
           </div>
 
           {/* <div className="mt-5 text-xs text-gray-600">
-            <div> 949 Sherwood Ave, Suite 200, Los Altos, CA 94022</div>
-            <div>Email: yanpangee@gmail.com | pang.yan@moffett.ai</div>
+            <div> 230 Wai Huan Xi Road, Guangzhou Higher Education Mega Center, Guangzhou 510006 P.R.China</div>
+            <div>Email: yanpangee@gmail.com</div>
           </div> */}
 
           <div id="interests" className="mt-12">
@@ -133,7 +133,8 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Jan 20, 2022] <b>NEW:</b> Two papers published to Journal of International Journal of Intelligent Systems.</li>
+                <li>[Aug 15, 2022] <b>NEW:</b> Joined Guangzhou University, Guangzhou.</li>
+                <li>[Jul 25, 2022] Two papers published to Journal of International Journal of Intelligent Systems.</li>
                 <li>[Dec 18, 2021] Received my Ph.D. degree.</li>
                 <li>[Aug 01, 2021] One paper published to Journal of Geophysical Research Letters. </li>
                 <li>[Apr 12, 2021] Joined Moffett AI, Los Altos, CA.</li>
@@ -194,7 +195,7 @@ const IndexPage = () => {
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2022 Yan Pang. All rights reserved</div>
-          <div>(Last update: Jan 20, 2022.)</div>
+          <div>(Last update: Aug 15, 2022.)</div>
         </div>
       </div>
     </main>
