@@ -9,20 +9,20 @@ const pageStyles = {
 // data
 const links = [
   {
-    author: <div><span className="font-bold">Yan Pang</span>, Chao Liu </div>,
-    title: "Sparse-Dyn: Sparse Dynamic Graph Multi-representation Learning via Event-based Sparse Temporal Attention Network",
-    jounal: "Submitted to ICML 2022",
-    paper: "https://arxiv.org/abs/2201.01384",
-    img: "https://pbs.twimg.com/media/FH6EkxaUUAMOTGJ?format=jpg&name=4096x4096",
-    abstract: "Dynamic graph neural networks have been widely used in modeling and representation learning of graph structure data. Current dynamic representation learning focuses on either discrete learning which results in temporal information loss or continuous learning that involves heavy computation. In this work, we proposed a novel dynamic graph neural network, Sparse-Dyn. It adaptively encodes temporal information into a sequence of patches with an equal amount of temporal-topological structure. Therefore, while avoiding the use of snapshots which causes information loss, it also achieves a finer time granularity, which is close to what continuous networks could provide. In addition, we also designed a lightweight module, Sparse Temporal Transformer, to compute node representations through both structural neighborhoods and temporal dynamics. Since the fully-connected attention conjunction is simplified, the computation cost is far lower than the current state-of-the-arts. Link prediction experiments are conducted on both continuous and discrete graph datasets. Through comparing with several state-of-the-art graph embedding baselines, the experimental results demonstrate that Sparse-Dyn has a faster inference speed while having competitive performance.",
+    author: <div><span className="font-bold">Yan Pang</span>, Ai Shan, Zhen Wang, Mengyu Wang, Jianwei Li, Ji Zhang, Teng Huang, Chao Liu </div>,
+    title: "Sparse-Dyn: Sparse dynamic graph multirepresentation learning via event-based sparse temporal attention network",
+    jounal: "International Journal of Intelligent Systems",
+    paper: "https://doi.org/10.1002/int.22967",
+    img: "https://onlinelibrary.wiley.com/cms/asset/00a3448e-89d1-4e24-9bc8-c3075a20b7e5/int22967-fig-0001-m.jpg",
+    abstract: "Dynamic graph neural networks (DGNNs) have been widely used in modeling and representation learning of graph structure data. Current dynamic representation learning focuses on either discrete learning which results in temporal information loss, or continuous learning which involves heavy computation. In this study, we proposed a novel DGNN, sparse dynamic (Sparse-Dyn). It adaptively encodes temporal information into a sequence of patches with an equal amount of temporal-topological structure. Therefore, while avoiding using snapshots which cause information loss, it also achieves a finer time granularity, which is close to what continuous networks could provide. In addition, we also designed a lightweight module, Sparse Temporal Transformer, to compute node representations through structural neighborhoods and temporal dynamics. Since the fully connected attention conjunction is simplified, the computation cost is far lower than the current state-of-the-art. Link prediction experiments are conducted on both continuous and discrete graph data sets. By comparing several state-of-the-art graph embedding baselines, the experimental results demonstrate that Sparse-Dyn has a faster inference speed while having competitive performance.",
    },
    {
-    author: <div><span className="font-bold">Yan Pang</span>, Chao Liu </div>,
+    author: <div><span className="font-bold">Yan Pang</span>, Teng Huang, Zhen Wang, Jianwei Li, Poorya Hosseini, Ji Zhang, Chao Liu, Shan Ai </div>,
     title: "Graph Decipher: A transparent dual-attention graph neural network to understand the message-passing mechanism for the node classification",
-    jounal: "Submitted to ICML 2022",
-    paper: "https://arxiv.org/abs/2201.01381",
-    img: "https://pbs.twimg.com/media/FH6EqNCVcAI8iTc?format=jpg&name=4096x4096",
-    abstract: "Graph neural networks (GNNs) can be effectively applied to find solutions for many real-world problems across widely diverse fields, and their success is inseparable from the message-passing mechanisms that have been evolving over the years. However, current mechanisms treat all features of a node equally at the macro-level (node-level), and the optimal aggregation method has not yet been explored. In this paper, we propose a new graph neural network called Graph Decipher, which transparentizes the message flows of node features from micro-level (feature-level) to global-level, and boosts the performance on node classification tasks. Besides, to reduce the computational burden caused by investigating message-passing, only the relevant representative node attributes are extracted by graph feature filters, which allows calculations to be performed in a category-oriented manner. Experiments on seven node classification datasets show that Graph Decipher achieves state-of-the-art performance while imposing a substantially lower computational cost. Additionally, since Graph Decipher has the ability to explore the representative node attributes by category, it can also be applied to imbalanced node classification on multi-class graph datasets.",
+    jounal: "International Journal of Intelligent Systems",
+    paper: "https://doi.org/10.1002/int.22966",
+    img: "https://onlinelibrary.wiley.com/cms/asset/18dc386e-138f-4293-a5e9-aa30d31459f4/int22966-fig-0001-m.jpg",
+    abstract: "Graph neural networks (GNNs) can be effectively applied to solve many real-world problems across widely diverse fields. Their success is inseparable from the message-passing mechanisms evolving over the years. However, current mechanisms treat all node features equally at the macro-level (node-level), and the optimal aggregation method has not yet been explored. In this paper, we propose a new GNN called Graph Decipher (GD), which transparentizes the message flows of node features from micro-level (feature-level) to global-level and boosts the performance on node classification tasks. Besides, to reduce the computational burden caused by investigating message-passing, only the relevant representative node attributes are extracted by graph feature filters, allowing calculations to be performed in a category-oriented manner. Experiments on 10 node classification data sets show that GD achieves state-of-the-art performance while imposing a substantially lower computational cost. Additionally, since GD has the ability to explore the representative node attributes by category, it can also be applied to imbalanced node classification on multiclass graph data sets..",
    },
   {
     author: <div> Vijay Harid, Chao Liu, <span className="font-bold">Yan Pang</span>, Akimun Jannat Alvina, Mark Golkowski, Poorya Hosseini, Morris Cohen</div>,
@@ -133,7 +133,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Jan 20, 2022] <b>NEW:</b> Submitted two papers to ICML 2022.</li>
+                <li>[Jan 20, 2022] <b>NEW:</b> Two papers published to Journal of International Journal of Intelligent Systems.</li>
                 <li>[Dec 18, 2021] Received my Ph.D. degree.</li>
                 <li>[Aug 01, 2021] One paper published to Journal of Geophysical Research Letters. </li>
                 <li>[Apr 12, 2021] Joined Moffett AI, Los Altos, CA.</li>
