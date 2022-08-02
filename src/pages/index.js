@@ -98,7 +98,7 @@ const IndexPage = () => {
               I am currently an associate professor in the Institute of Artificial Intelligence and Blockchain at Guangzhou University, China. Prior to Moffett, I was fortunate to be a Ph.D student in University of Colorado (2017-2021), advised by Prof. Chao Liu. My research interests span machine learning, computer vision, efficient deep learning, etc.
               </p>
               <p className="mt-3">
-              From Aug. 2017 to May 2021, I was an <b>instructor</b> in Department of Electrical Engineering at University of Colorado Denver. From Aug. 2018 to May 2021, I was a <b>instructor</b> in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver. My responsibility was to design and teach courses and labs related to computer engineering and electrical engineering. Started from Jan. 2021, I has been employed as an <b>senior instructor</b> at JulyEdu. My online courses relate to deep learning for computer vision, et al.
+              From April 2021 to May 2022, I was an <b> deep learning scientist</b> at Moffett AI, Los Altos, CA. From Aug. 2017 to May 2021, I was an <b>instructor</b> in Department of Electrical Engineering at University of Colorado Denver. From Aug. 2018 to May 2021, I was a <b>instructor</b> in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver. My responsibility was to design and teach courses and labs related to computer engineering and electrical engineering. Started from Jan. 2021, I has been employed as an <b>senior instructor</b> at JulyEdu. My online courses relate to deep learning for computer vision, et al.
               </p>
               <div className="mt-3 text-xs text-gray-600">
                 <div><span className="font-bold">Address:</span> 949 Sherwood Ave, Suite 200, Los Altos, CA 94022 | <span className="font-bold">Email:</span> yanpangee@gmail.com | pang.yan@moffett.ai</div>
@@ -133,11 +133,11 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Aug 15, 2022] <b>NEW:</b> Joined Guangzhou University, Guangzhou.</li>
+                <li>[Aug 15, 2022] <b>NEW:</b> Joined to Guangzhou University, Guangdong.</li>
                 <li>[Jul 25, 2022] Two papers published to Journal of International Journal of Intelligent Systems.</li>
                 <li>[Dec 18, 2021] Received my Ph.D. degree.</li>
                 <li>[Aug 01, 2021] One paper published to Journal of Geophysical Research Letters. </li>
-                <li>[Apr 12, 2021] Joined Moffett AI, Los Altos, CA.</li>
+                <li>[Apr 12, 2021] Joined to Moffett AI, Los Altos, CA.</li>
                 <li>[Nov 01, 2020] One paper published to Journal of Computers and Electronics in Agriculture. </li>
                 <li>[Mar 01, 2020] One paper published to Journal of neuroscience method. </li>
                 <li>[Apr 24, 2019] One paper accepted to Science and Information Conference</li>
