@@ -101,7 +101,7 @@ const IndexPage = () => {
               From April 2021 to May 2022, I was a <b> machine learning scientist</b> at Moffett AI, Los Altos, CA. From Aug. 2017 to May 2021, I was an <b>instructor</b> in Department of Electrical Engineering at University of Colorado Denver. From Aug. 2018 to May 2021, I was a <b>instructor</b> in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver.
               </p>
               <div className="mt-3 text-xs text-gray-600">
-                <div><span className="font-bold">Address:</span> 949 Sherwood Ave, Suite 200, Los Altos, CA 94022 | <span className="font-bold">Email:</span> yanpangee@gmail.com | pang.yan@moffett.ai</div>
+                <div><span className="font-bold">Address:</span> 230 Wai Huan Xi Road, Guangzhou Higher Education Mega Center, Guangzhou 510006 China | <span className="font-bold">Email:</span> yanpangee@gmail.com</div>
               </div>
             </div>
           </div>
