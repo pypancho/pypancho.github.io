@@ -108,7 +108,7 @@ const IndexPage = () => {
 
           {/* <div className="mt-5 text-xs text-gray-600">
             <div> 230 Wai Huan Xi Road, Guangzhou Higher Education Mega Center, Guangzhou 510006 P.R.China</div>
-            <div>Email: yanpangee@gmail.com</div>
+            <div> Email: yanpangee@gmail.com</div>
           </div> */}
 
           <div id="interests" className="mt-12">
