@@ -135,6 +135,7 @@ const IndexPage = () => {
               <ul className="list-disc">
                 <li>[Aug 15, 2022] <b>NEW:</b> Joined to Guangzhou University, Guangdong.</li>
                 <li>[Jul 25, 2022] Two papers published to Journal of International Journal of Intelligent Systems.</li>
+                <li>[Jun 20, 2022] Submitted one paper to Journal of IEEE Transactions on Neural Networks and Learning System.</li>
                 <li>[Dec 18, 2021] Received my Ph.D. degree.</li>
                 <li>[Aug 01, 2021] One paper published to Journal of Geophysical Research Letters. </li>
                 <li>[Apr 12, 2021] Joined to Moffett AI, Los Altos, CA.</li>
