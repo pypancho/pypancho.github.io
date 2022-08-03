@@ -95,7 +95,7 @@ const IndexPage = () => {
             </div>
             <div className="flex-1 ml-3 mt-3 md:mt-0">
               <p className="font-semibold text-sm" >
-              I am currently an associate professor in the Institute of Artificial Intelligence and Blockchain at Guangzhou University, China. Prior to Guangzhou University, I was fortunate to be a Ph.D student in University of Colorado (2017-2021), advised by Prof. Chao Liu. My research interests span machine learning, computer vision, efficient deep learning, etc.
+              I am currently an associate professor in the Institute of Artificial Intelligence and Blockchain at Guangzhou University, China. Prior to Guangzhou University, I was fortunate to be a Ph.D student in University of Colorado (2017-2021), advised by Dr. Chao Liu. My research interests span machine learning, computer vision, efficient deep learning, etc.
               </p>
               <p className="mt-3">
               From April 2021 to May 2022, I was a <b> machine learning scientist</b> at Moffett AI, Los Altos, CA. From Aug. 2017 to May 2021, I was an <b>instructor</b> in Department of Electrical Engineering at University of Colorado Denver. From Aug. 2018 to May 2021, I was a <b>instructor</b> in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver.
