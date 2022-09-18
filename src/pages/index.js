@@ -196,12 +196,12 @@ const IndexPage = () => {
                 <li>
                   
                     <div>
-                      <a href={"https://peterli.club/"} target="_blank">Yunhao Li</a>
+                      <a className="text-blue-600 text-sm" href={"https://peterli.club/"} target="_blank">Yunhao Li</a>
                     </div>
 
 
                 </li>
-                <li>Mingwei Li</li>
+                <li>Mingwei Chen</li>
                 <li>Hui Li</li>
                 </ul>
             </div>
