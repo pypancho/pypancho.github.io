@@ -95,14 +95,13 @@ const IndexPage = () => {
               <img className="w-full md:w-60" src="https://pbs.twimg.com/media/FH6H1i4UUAEyhAN?format=jpg&name=medium"></img>
             </div>
             <div className="flex-1 ml-3 mt-3 md:mt-0">
-              <p className="font-semibold text-sm" >
-              I am currently an associate professor in the Institute of Artificial Intelligence and Blockchain at Guangzhou University, China. Prior to Guangzhou University, I was fortunate to be a Ph.D student in University of Colorado (2017-2021), advised by Dr. Chao Liu. My research interests span machine learning, computer vision, efficient deep learning, etc.
-              </p>
-              <p className="mt-3">
-              From April 2021 to May 2022, I was a <b> machine learning scientist</b> at Moffett AI, Los Altos, CA. From Aug. 2017 to May 2021, I was an <b>instructor</b> in Department of Electrical Engineering at University of Colorado Denver. From Aug. 2018 to May 2021, I was a <b>instructor</b> in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver.
+            <p className="mt-3">
+              I am currently an associate professor in the Institute of Artificial Intelligence and Blockchain at <b>Guangzhou University</b>, China. Prior to Guangzhou University, I was fortunate to be a Ph.D student in University of Colorado (2017-2021), advised by Dr. Chao Liu. My research interests span <b>machine learning, computer vision, efficient deep learning</b>, etc.
+
+              From April 2021 to May 2022, I was a  machine learning scientist at <b> Moffett AI</b>, Los Altos, CA. From Aug. 2017 to May 2021, I was an instructor in Department of Electrical Engineering at <b>University of Colorado Denver</b>, US. From Aug. 2018 to May 2021, I was a <b>instructor</b> in Department of Department of Engineering and Engineering Technology at <b>Metropolitan State University of Denver</b>, US.
               </p>
               <div className="mt-3 text-xs text-gray-600">
-                <div><span className="font-bold">Address:</span> 230 Wai Huan Xi Road, Guangzhou Higher Education Mega Center, Guangzhou 510006 China | <span className="font-bold">Email:</span> yanpangee@gmail.com</div>
+                <div> <span className="font-bold">Email:</span> yanpang@gzhu.edu.cn</div>
               </div>
             </div>
           </div>
