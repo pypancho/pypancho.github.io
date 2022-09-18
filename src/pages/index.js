@@ -187,19 +187,29 @@ const IndexPage = () => {
               </ul>
             </div>
           </div>
-        </div>
-        
-        <div id="students">
+
+          <div id="students">
             <div className="text-blue-800 text-xl font-bold">Master Students</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
                 <li>Huaicheng Zhou</li>
-                <li>Yunhao Li href={"https://peterli.club/"}</li>
+                <li>
+                  
+                    <div>
+                      <a href={"https://peterli.club/"} target="_blank">Yunhao Li</a>
+                    </div>
+
+
+                </li>
                 <li>Mingwei Li</li>
                 <li>Hui Li</li>
                 </ul>
             </div>
         </div>
+
+        </div>
+        
+        
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2022 Yan Pang. All rights reserved</div>
