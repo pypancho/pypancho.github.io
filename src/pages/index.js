@@ -43,16 +43,6 @@ const links = [
     title: "Automatic object segmentation based on grabcut",
     jounal: "Science and Information Conference",
     paper: "https://doi.org/10.1007/978-3-030-17795-9_25",
-  },
-  {
-    author: <div>Vijay Harid, <span className="font-bold">Yan Pang</span>, et al. </div>,
-    title: "Source Characterization and Localization of Lightning Generated Whistlers Observed at Palmer Station ",
-    jounal: "Submitted to AGU 2022",
-  },
-  {
-    author: <div>Zhen Wang, <span className="font-bold">Yan Pang</span>, et al. </div>,
-    title: "Towards Learning Joint Inference Tasks for IASSMTS Using Dual Attention Memory with Stochastic Generative Imputation",
-    jounal: "Submitted to IEEE Transactions on Neural Networks and Learning Systems",
   }
 ]
 
@@ -175,7 +165,7 @@ const IndexPage = () => {
           </div>
 
           <div id="publications">
-            <div className="text-blue-800 text-xl font-bold">Recent Publications</div>
+            <div className="text-blue-800 text-xl font-bold">Under Reviewing</div>
             <div className="py-3">
               {links.map((link, id) =>
                 <div key={id} className="mb-8 flex flex-row flex-wrap items-center">
