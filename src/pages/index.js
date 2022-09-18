@@ -48,7 +48,6 @@ const links = [
     author: <div>Vijay Harid, <span className="font-bold">Yan Pang</span>, et al. </div>,
     title: "Source Characterization and Localization of Lightning Generated Whistlers Observed at Palmer Station ",
     jounal: "Submitted to AGU 2022",
-    paper: "Submitted ID: #1184878",
   },
   {
     author: <div>Zhen Wang, <span className="font-bold">Yan Pang</span>, et al. </div>,
@@ -162,9 +161,6 @@ const IndexPage = () => {
             <div className="py-3">
               {links.map((link, id) =>
                 <div key={id} className="mb-8 flex flex-row flex-wrap items-center">
-                  <div className="w-full md:w-60">
-                    <img className="w-full md:w-60" src={link.img}></img>
-                  </div>
                   <div className="md:ml-5 flex-1">
                     <div>{link.author}</div>
                     <div className="font-bold">{link.title}</div>
@@ -172,9 +168,6 @@ const IndexPage = () => {
                     <div>
                       <a className="text-blue-600 text-sm" href={link.paper} target="_blank">Paper Link</a>
                     </div>
-                  </div>
-                  <div className="text-sm mt-3 text-gray-500">
-                    {link.abstract}
                   </div>
                 </div>
               )}
