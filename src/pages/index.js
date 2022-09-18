@@ -81,6 +81,9 @@ const IndexPage = () => {
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
               <a href="#teaching">Teaching Experiences</a>
             </div>
+            <div className="mr-5 text-sm text-gray-300 hidden md:block">
+              <a href="#students">Students</a>
+            </div>
           </div>
         </div>
       </div>
@@ -185,10 +188,22 @@ const IndexPage = () => {
             </div>
           </div>
         </div>
+        
+        <div id="students">
+            <div className="text-blue-800 text-xl font-bold">Master Students</div>
+            <div className="text-sm pl-10 py-3">
+              <ul className="list-disc">
+                <li>Huaicheng Zhou</li>
+                <li>Yunhao Li href={"https://peterli.club/"}</li>
+                <li>Mingwei Li</li>
+                <li>Hui Li</li>
+                </ul>
+            </div>
+        </div>
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2022 Yan Pang. All rights reserved</div>
-          <div>(Last update: Aug 15, 2022.)</div>
+          <div>(Last update: Sep 19, 2022.)</div>
         </div>
       </div>
     </main>
