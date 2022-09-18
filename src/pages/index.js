@@ -107,7 +107,7 @@ const IndexPage = () => {
               From April 2021 to May 2022, Dr. Pang was a machine learning scientist at Moffett AI, Los Altos, CA. From Aug. 2018 to May 2021, he was the instructor in Department of Electrical Engineering at University of Colorado Denver, and the Department of Electrical Engineering Technology at Metropolitan State University of Denver, US.
               </p>
               <div className="mt-3 text-xs text-gray-600">
-                <div> <span className="font-bold">Address:</span> Guangzhou Higher Education Mega Center, Guangzhou 510006 China |<span className="font-bold">Email:</span> yanpang@gzhu.edu.cn</div>
+                <div> <span className="font-bold">Address:</span> Guangzhou Higher Education Mega Center, Guangzhou 510006 China | <span className="font-bold">Email:</span> yanpang@gzhu.edu.cn</div>
               </div>
             </div>
           </div>
