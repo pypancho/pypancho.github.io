@@ -101,7 +101,7 @@ const IndexPage = () => {
               Dr. Pang received the Ph.D. degree from University of Colorado in 2021. His research interests span <b>machine learning, computer vision, efficient deep learning</b>, etc.
               </p>
               <p className="mt-3">
-              From April 2021 to May 2022, Dr. Pang was a machine learning scientist at Moffett AI, Los Altos, CA. From Aug. 2018 to May 2021, he was an instructor in Department of Electrical Engineering at University of Colorado Denver, and Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver, US.
+              From April 2021 to May 2022, Dr. Pang was a machine learning scientist at Moffett AI, Los Altos, CA. From Aug. 2018 to May 2021, he was the instructor in Department of Electrical Engineering at University of Colorado Denver, and the Department of Electrical Engineering Technology at Metropolitan State University of Denver, US.
               </p>
               <div className="mt-3 text-xs text-gray-600">
                 <div> <span className="font-bold">Email:</span> yanpang@gzhu.edu.cn</div>
