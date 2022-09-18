@@ -95,10 +95,11 @@ const IndexPage = () => {
               <img className="w-full md:w-60" src="https://pbs.twimg.com/media/FH6H1i4UUAEyhAN?format=jpg&name=medium"></img>
             </div>
             <div className="flex-1 ml-3 mt-3 md:mt-0">
-            <p className="mt-3">
-              I am currently an associate professor in the Institute of Artificial Intelligence and Blockchain at <b>Guangzhou University</b>, China. Prior to Guangzhou University, I was fortunate to be a Ph.D student in University of Colorado (2017-2021), advised by Dr. Chao Liu. My research interests span <b>machine learning, computer vision, efficient deep learning</b>, etc.
-
-              From April 2021 to May 2022, I was a  machine learning scientist at <b> Moffett AI</b>, Los Altos, CA. From Aug. 2017 to May 2021, I was an instructor in Department of Electrical Engineering at <b>University of Colorado Denver</b>, US. From Aug. 2018 to May 2021, I was a <b>instructor</b> in Department of Department of Engineering and Engineering Technology at <b>Metropolitan State University of Denver</b>, US.
+              <p className="mt-3">
+              I am currently an <b>associate professor</b> in the Institute of Artificial Intelligence and Blockchain at <b>Guangzhou University</b>, China. Prior to Guangzhou University, I was fortunate to be a Ph.D student in University of Colorado (2017-2021), advised by Dr. Chao Liu. My research interests span <b>machine learning, computer vision, efficient deep learning</b>, etc.
+              </p>
+              <p className="mt-3">
+              From April 2021 to May 2022, I was a  machine learning scientist at Moffett AI, Los Altos, CA. From Aug. 2017 to May 2021, I was an instructor in Department of Electrical Engineering at University of Colorado Denver, US. From Aug. 2018 to May 2021, I was a instructor in Department of Department of Engineering and Engineering Technology at Metropolitan State University of Denver, US.
               </p>
               <div className="mt-3 text-xs text-gray-600">
                 <div> <span className="font-bold">Email:</span> yanpang@gzhu.edu.cn</div>
