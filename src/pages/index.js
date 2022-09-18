@@ -56,6 +56,19 @@ const links = [
   }
 ]
 
+const reviews = [
+  {
+    author: <div>Vijay Harid, <span className="font-bold">Yan Pang</span>, et al. </div>,
+    title: "Source Characterization and Localization of Lightning Generated Whistlers Observed at Palmer Station ",
+    jounal: "Submitted to AGU 2022",
+  },
+  {
+    author: <div>Zhen Wang, <span className="font-bold">Yan Pang</span>, et al. </div>,
+    title: "Towards Learning Joint Inference Tasks for IASSMTS Using Dual Attention Memory with Stochastic Generative Imputation",
+    jounal: "Submitted to IEEE Transactions on Neural Networks and Learning Systems",
+  }
+]
+
 // markup
 const IndexPage = () => {
   return (
@@ -173,6 +186,21 @@ const IndexPage = () => {
                     <div>
                       <a className="text-blue-600 text-sm" href={link.paper} target="_blank">Paper Link</a>
                     </div>
+                  </div>
+                </div>
+              )}
+            </div>
+          </div>
+
+          <div id="reviews">
+            <div className="text-blue-800 text-xl font-bold">Recent Publications</div>
+            <div className="py-3">
+              {reviews.map((link, id) =>
+                <div key={id} className="mb-8 flex flex-row flex-wrap items-center">
+                  <div className="md:ml-5 flex-1">
+                    <div>{link.author}</div>
+                    <div className="font-bold">{link.title}</div>
+                    <div>{link.jounal}</div>
                   </div>
                 </div>
               )}
