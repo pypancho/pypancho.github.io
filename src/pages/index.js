@@ -99,7 +99,7 @@ const IndexPage = () => {
             </div>
             <div className="flex-1 ml-3 mt-3 md:mt-0">
               <p className="mt-3">
-              <b>Associate professor</b> of the Institute of Artificial Intelligence and Blockchain at <b>Guangzhou University</b>, China. </p>
+              <b>Associate professor</b> at the Institute of Artificial Intelligence and Blockchain at <b>Guangzhou University</b>, China. </p>
               <p className="mt-3">
               Dr. Pang received the Ph.D. degree from University of Colorado in 2021. His research interests span <b>machine learning, computer vision, efficient deep learning</b>, etc.
               </p>
