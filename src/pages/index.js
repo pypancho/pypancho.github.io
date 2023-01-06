@@ -208,7 +208,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Master Students</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>Huaicheng Zhou</li>
+                <li>Jiaming Liang</li>
                 <li>
                   
                     <div>
@@ -217,6 +217,8 @@ const IndexPage = () => {
 
 
                 </li>
+                <li>Weiqing Kong</li>
+                <li>Ziyu Ding</li>
                 <li>Mingwei Chen</li>
                 <li>Hui Li</li>
                 </ul>
