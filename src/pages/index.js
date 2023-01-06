@@ -134,10 +134,8 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                
- 
-                <li>[Jan 01, 2023] <b>NEW:</b> As a topic editor of "<div>  <a className="text-blue-600 text-sm" href={"https://www.mdpi.com/topics/FLN51J9SH1"} target="_blank">AI and Data-Driven Advancements in Industry 4.0</a> </div>".</li>
-                <li>[Aug 15, 2022] Joined to Guangzhou University, Guangdong.
+                <li>[Jan 07, 2022] <b>NEW:</b> Become the topic editor of "AI and Data-Driven Advancements in Industry 4.0".</li>
+                <li>[Aug 15, 2022] Joined to Guangzhou University, Guangdong.</li>
                 <li>[Jul 25, 2022] Two papers published to Journal of International Journal of Intelligent Systems.</li>
                 <li>[Jun 20, 2022] Submitted one paper to Journal of IEEE Transactions on Neural Networks and Learning System.</li>
                 <li>[Dec 18, 2021] Received my Ph.D. degree.</li>
