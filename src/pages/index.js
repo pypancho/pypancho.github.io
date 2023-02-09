@@ -9,6 +9,12 @@ const pageStyles = {
 // data
 const links = [
   {
+    author: <div>Teng Huang, Jiahui Huang, <span className="font-bold">Yan Pang *</span>, Hongyang Yan</div>,
+    title: "Smart Contract Watermarking Based on Code Obfuscation".",
+    jounal: "Information Sciences",
+    paper: "https://doi.org/10.1016/j.ins.2023.01.126",
+  },
+  {
     author: <div><span className="font-bold">Yan Pang</span>, Ai Shan, Zhen Wang, Mengyu Wang, Jianwei Li, Ji Zhang, Teng Huang, Chao Liu </div>,
     title: "Sparse-Dyn: Sparse dynamic graph multirepresentation learning via event-based sparse temporal attention network",
     jounal: "International Journal of Intelligent Systems",
@@ -134,12 +140,13 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
+                <li>[Jul 25, 2022] One papers published to Journal of Information Sciences (IF: 8.233).</li>
                 <li>[Jan 06, 2023] <b>NEW:</b> Become a topic editor of the "<a className="text-blue-600 text-sm" href="https://www.mdpi.com/topics/FLN51J9SH1" target="_blank">AI and Data-Driven Advancements in Industry 4.0</a>". Welcome to submit your papers on AI.</li>
                 <li>[Aug 15, 2022] Joined to Guangzhou University, Guangdong.</li>
-                <li>[Jul 25, 2022] Two papers published to Journal of International Journal of Intelligent Systems.</li>
+                <li>[Jul 25, 2022] Two papers published to Journal of International Journal of Intelligent Systems （IF：8.993）.</li>
                 <li>[Jun 20, 2022] Submitted one paper to Journal of IEEE Transactions on Neural Networks and Learning System.</li>
                 <li>[Dec 18, 2021] Received my Ph.D. degree.</li>
-                <li>[Aug 01, 2021] One paper published to Journal of Geophysical Research Letters. </li>
+                <li>[Aug 01, 2021] One paper published to Journal of Geophysical Research Letters (IF: 5.58). </li>
                 <li>[Apr 12, 2021] Joined to Moffett AI, Los Altos, CA.</li>
                 <li>[Nov 01, 2020] One paper published to Journal of Computers and Electronics in Agriculture. </li>
                 <li>[Mar 01, 2020] One paper published to Journal of neuroscience method. </li>
