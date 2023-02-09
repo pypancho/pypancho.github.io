@@ -10,7 +10,7 @@ const pageStyles = {
 const links = [
   {
     author: <div>Teng Huang, Jiahui Huang, <span className="font-bold">Yan Pang *</span>, Hongyang Yan</div>,
-    title: "Smart Contract Watermarking Based on Code Obfuscation".",
+    title: "Smart Contract Watermarking Based on Code Obfuscation",
     jounal: "Information Sciences",
     paper: "https://doi.org/10.1016/j.ins.2023.01.126",
   },
