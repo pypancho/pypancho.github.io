@@ -45,7 +45,7 @@ const links = [
     paper: "https://doi.org/10.1016/j.jneumeth.2019.108576",
   },
   {
-    author: Akimun Jannat Alvina, Vijay Harid, Mark Golkowski, Chao Liu, Poorya Hosseini, <div><span className="font-bold">Yan Pang</span> </div>,
+    author: <div> Akimun Jannat Alvina, Vijay Harid, Mark Golkowski, Chao Liu, Poorya Hosseini, <span className="font-bold">Yan Pang</span> </div>,
     title: "Source Characterization and Localization of Lightning Generated Whistlers Observed at Palmer Station",
     jounal: "AGU Meeting 2022",
     paper: "https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1184878",
