@@ -117,7 +117,9 @@ const IndexPage = () => {
             <p className="text-sm">My research focuses on the broad areas of machine learning, deep learning and their applications on computer vision. Specifically, I focus on </p>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
+                <li>Medical Image Analysis</li>
                 <li>Graph Neural Networks</li>
+                <li>Semantic Segmentation</li>
                 <li>Object Detection</li>
                 <li>Key Points Detection</li>
                 <li>Multimodal Learning</li>
