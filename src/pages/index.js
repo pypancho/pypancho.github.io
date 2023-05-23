@@ -45,6 +45,12 @@ const links = [
     paper: "https://doi.org/10.1016/j.jneumeth.2019.108576",
   },
   {
+    author: Akimun Jannat Alvina, Vijay Harid, Mark Golkowski, Chao Liu, Poorya Hosseini, <div><span className="font-bold">Yan Pang</span> </div>,
+    title: "Source Characterization and Localization of Lightning Generated Whistlers Observed at Palmer Station",
+    jounal: "AGU Meeting 2022",
+    paper: "https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1184878",
+  },
+  {
     author: <div>Feng Jiang, <span className="font-bold">Yan Pang</span>, ThienNgo N Lee, Chao Liu </div>,
     title: "Automatic object segmentation based on grabcut",
     jounal: "Science and Information Conference",
@@ -52,18 +58,6 @@ const links = [
   }
 ]
 
-const reviews = [
-  {
-    author: <div>Vijay Harid, <span className="font-bold">Yan Pang</span>, et al. </div>,
-    title: "Source Characterization and Localization of Lightning Generated Whistlers Observed at Palmer Station ",
-    jounal: "Submitted to AGU 2022",
-  },
-  {
-    author: <div>Zhen Wang, <span className="font-bold">Yan Pang</span>, et al. </div>,
-    title: "Towards Learning Joint Inference Tasks for IASSMTS Using Dual Attention Memory with Stochastic Generative Imputation",
-    jounal: "Submitted to IEEE Transactions on Neural Networks and Learning Systems",
-  }
-]
 
 // markup
 const IndexPage = () => {
@@ -185,20 +179,7 @@ const IndexPage = () => {
             </div>
           </div>
 
-          <div id="reviews">
-            <div className="text-blue-800 text-xl font-bold">Under Reviewing</div>
-            <div className="py-3">
-              {reviews.map((link, id) =>
-                <div key={id} className="mb-8 flex flex-row flex-wrap items-center">
-                  <div className="md:ml-5 flex-1">
-                    <div>{link.author}</div>
-                    <div className="font-bold">{link.title}</div>
-                    <div>{link.jounal}</div>
-                  </div>
-                </div>
-              )}
-            </div>
-          </div>
+          
 
           <div id="teaching">
             <div className="text-blue-800 text-xl font-bold">Teaching Experiences</div>
