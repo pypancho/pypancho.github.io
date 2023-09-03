@@ -9,6 +9,12 @@ const pageStyles = {
 // data
 const links = [
   {
+    author: <div>Zhen Wang, Yang Zhang, <span className="font-bold">Yan Pang *</span>, Nannan Wang, Mohamed Jaward Bah, Ke Li, Ji Zhang</div>,
+    title: "Toward Learning Joint Inference Tasks for IASS-MTS Using Dual Attention Memory With Stochastic Generative Imputation",
+    jounal: "IEEE Transactions on Neural Networks and Learning Systems",
+    paper: "https://ieeexplore.ieee.org/document/10236563",
+  },
+  {
     author: <div>Teng Huang, Jiahui Huang, <span className="font-bold">Yan Pang *</span>, Hongyang Yan</div>,
     title: "Smart Contract Watermarking Based on Code Obfuscation",
     jounal: "Information Sciences",
