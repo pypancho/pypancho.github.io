@@ -196,6 +196,7 @@ const IndexPage = () => {
                 <li>2022.09 - Present. Guangzhou University:
                   <div> <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/CV-Lectures"} target="_blank">Computer Vision(180600030-1), </a>
                     <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/NLP-Lectures"} target="_blank">Natural Language Processing(180600065-1).</a>
+                    <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/Assembly-Lectures"} target="_blank">Assembly Language Processing(180600065-1).</a>
                   </div>
                 </li>
                 <li>2018.08 - 2021.05, Metropolitan State University of Denver, EET/CPE 2350 Advanced Technical Programming, EET/CPE 3330 Digital Circuits/Systems II，EET/CPE 4020 Digital Circuits/Systems III, CPE 4600 VLSI Circuits and Systems.</li>
