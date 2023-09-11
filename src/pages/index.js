@@ -194,8 +194,7 @@ const IndexPage = () => {
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
                 <li>2022.09 - Present. Guangzhou University:
-                  <div> <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/CV-Lectures"} target="_blank">Computer Vision(180600030-1), </a>
-                    <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/NLP-Lectures"} target="_blank">Natural Language Processing(180600065-1).</a>
+                  <div> Computer Vision(180600030-1), Natural Language Processing(180600065-1),
                     <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/Assembly-Lectures"} target="_blank">Assembly Language Processing(180600065-1).</a>
                   </div>
                 </li>
