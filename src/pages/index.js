@@ -194,8 +194,10 @@ const IndexPage = () => {
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
                 <li>2022.09 - Present. Guangzhou University:
-                  <div> Computer Vision(180600030-1), Natural Language Processing(180600065-1),
-                    <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/Assembly-Lectures"} target="_blank">Assembly Language Processing(180600065-1).</a>
+                  <div>  
+                        <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/CV-Lectures"} target="_blank">Computer Vision Processing(181940016-1).</a>，
+                        Natural Language Processing(180600065-1),
+                        <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/Assembly-Lectures"} target="_blank">Assembly Language Processing(210600058-1).</a>
                   </div>
                 </li>
                 <li>2018.08 - 2021.05, Metropolitan State University of Denver, EET/CPE 2350 Advanced Technical Programming, EET/CPE 3330 Digital Circuits/Systems II，EET/CPE 4020 Digital Circuits/Systems III, CPE 4600 VLSI Circuits and Systems.</li>
