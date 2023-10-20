@@ -151,7 +151,7 @@ const IndexPage = () => {
                 <li>[Aug 01, 2021] One paper published in the Journal of Geophysical Research Letters (IF: 5.58). </li>
                 <li>[Apr 12, 2021] Joined to Moffett AI, Los Altos, CA.</li>
                 <li>[Nov 01, 2020] One paper is published in the Journal of Computers and Electronics in Agriculture. </li>
-                <li>[Mar 01, 2020] One paper is published in the Journal of neuroscience method. </li>
+                <li>[Mar 01, 2020] One paper is published in the Journal of Neuroscience Method. </li>
                 <li>[Apr 24, 2019] One paper is accepted to Science and Information Conference</li>
               </ul>
             </div>
@@ -195,7 +195,7 @@ const IndexPage = () => {
               <ul className="list-disc">
                 <li>2022.09 - Present. Guangzhou University:
                   <div>  
-                        <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/CV-Lectures"} target="_blank">Computer Vision Processing(181940016-1).</a>，
+                        <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/CV-Lectures"} target="_blank">Computer Vision Processing(181940016-1)</a>，
                         Natural Language Processing(180600065-1)，
                         <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/Assembly-Lectures"} target="_blank">Assembly Language Processing(210600058-1).</a>
                   </div>
