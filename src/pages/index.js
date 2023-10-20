@@ -196,7 +196,7 @@ const IndexPage = () => {
                 <li>2022.09 - Present. Guangzhou University:
                   <div>  
                         <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/CV-Lectures"} target="_blank">Computer Vision Processing(181940016-1).</a>，
-                        Natural Language Processing(180600065-1),
+                        Natural Language Processing(180600065-1)，
                         <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/Assembly-Lectures"} target="_blank">Assembly Language Processing(210600058-1).</a>
                   </div>
                 </li>
