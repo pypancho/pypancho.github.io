@@ -148,7 +148,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Oct 20, 2023] <b>NEW:</b> One paper is published in the Journal of IEEE Transactions on Medical Imaging. (IF: 10.6).  <a className="text-blue-600 text-sm" href="https://github.com/aigzhusmart/SlimUNETR" target="_blank">Code</a> is released.</li>
+                <li>[Oct 20, 2023] <b>NEW:</b> One paper is published in the Journal of IEEE Transactions on Medical Imaging. (IF: 10.6).  <a className="text-blue-600 text-sm" href="https://github.com/aigzhusmart/Slim-UNETR" target="_blank">Code</a> is released.</li>
                 <li>[Aug 14, 2023] One paper is published in the Journal of IEEE Transactions on Neural Networks and Learning Systems. (IF: 10.4).</li>
                 <li>[Feb 07, 2023] One paper published in the Journal of Information Sciences (IF: 8.233).</li>
                 <li>[Jan 06, 2023] <b>NEW:</b> Become a topic editor of the "<a className="text-blue-600 text-sm" href="https://www.mdpi.com/topics/FLN51J9SH1" target="_blank">AI and Data-Driven Advancements in Industry 4.0</a>". Welcome to submit your papers on AI.</li>
