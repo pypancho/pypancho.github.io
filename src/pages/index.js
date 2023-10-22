@@ -9,7 +9,7 @@ const pageStyles = {
 // data
 const links = [
   {
-    author: <div><span className="font-bold">Yan Pang *</span>, Jiaming Liang, Teng Huang, Hao Chen, Yunhao Li, Dan Li, Lin Huang, Qiong Wang</div>,
+    author: <div><span className="font-bold">Yan Pang</span>, Jiaming Liang, Teng Huang, Hao Chen, Yunhao Li, Dan Li, Lin Huang, Qiong Wang</div>,
     title: "Slim UNETR: Scale Hybrid Transformers to Efficient 3D Medical Image Segmentation Under Limited Computational Resources",
     jounal: "IEEE Transactions on Medical Imaging",
     paper: "https://doi.org/10.1109/TMI.2023.3326188",
