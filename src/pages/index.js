@@ -9,10 +9,16 @@ const pageStyles = {
 // data
 const links = [
   {
+    author: <div>Yang Zhang, <span className="font-bold">Yan Pang *</span>, Jiaming Liang, Teng Huang, Hao Chen, Yunhao Li, Dan Li, Lin Huang, Qiong Wang</div>,
+    title: "Slim UNETR: Scale Hybrid Transformers to Efficient 3D Medical Image Segmentation Under Limited Computational Resources",
+    jounal: "IEEE Transactions on Medical Imaging",
+    paper: "https://doi.org/10.1109/TMI.2023.3326188",
+  },
+  {
     author: <div>Zhen Wang, Yang Zhang, <span className="font-bold">Yan Pang *</span>, Nannan Wang, Mohamed Jaward Bah, Ke Li, Ji Zhang</div>,
     title: "Toward Learning Joint Inference Tasks for IASS-MTS Using Dual Attention Memory With Stochastic Generative Imputation",
     jounal: "IEEE Transactions on Neural Networks and Learning Systems",
-    paper: "https://ieeexplore.ieee.org/document/10236563",
+    paper: "https://doi.org/10.1109/TNNLS.2023.3305542",
   },
   {
     author: <div>Teng Huang, Jiahui Huang, <span className="font-bold">Yan Pang *</span>, Hongyang Yan</div>,
@@ -142,7 +148,8 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Aug 14, 2023] <b>NEW:</b> One paper is accepted in the Journal of IEEE Transactions on Neural Networks and Learning Systems. (IF: 10.4).</li>
+                <li>[Aug 14, 2023] <b>NEW:</b> One paper is published in the Journal of IEEE Transactions on Medical Imaging. (IF: 10.6).  <a className="text-blue-600 text-sm" href="https://github.com/aigzhusmart/SlimUNETR" target="_blank">Code</a> is released.</li>
+                <li>[Aug 14, 2023] One paper is published in the Journal of IEEE Transactions on Neural Networks and Learning Systems. (IF: 10.4).</li>
                 <li>[Feb 07, 2023] One paper published in the Journal of Information Sciences (IF: 8.233).</li>
                 <li>[Jan 06, 2023] <b>NEW:</b> Become a topic editor of the "<a className="text-blue-600 text-sm" href="https://www.mdpi.com/topics/FLN51J9SH1" target="_blank">AI and Data-Driven Advancements in Industry 4.0</a>". Welcome to submit your papers on AI.</li>
                 <li>[Aug 15, 2022] Joined to Guangzhou University, Guangdong.</li>
