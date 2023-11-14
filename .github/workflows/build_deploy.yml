@@ -28,8 +28,8 @@ jobs:
       - name: Build
         run: npm run build
 
-      # - name: cname
-      #   run: echo pangyan.me >> public/CNAME
+      - name: cname
+        run: echo pangyan.me >> public/CNAME
 
       - name: Deploy to Github Pages
         if: ${{ github.ref == 'refs/heads/main' }}
