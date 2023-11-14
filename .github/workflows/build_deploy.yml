@@ -15,22 +15,18 @@ jobs:
       - name: Git checkout
         uses: actions/checkout@v3
 
-      - uses: pnpm/action-setup@v2
-        with:
-          version: 6.32.9
-
       - name: Use Node.js 16.x
         uses: actions/setup-node@v3
         with:
           node-version: 16.x
-          cache: "pnpm"
+          cache: "npm"
 
       - name: Install dependencies
         run: |
-          pnpm install
+          npm install
 
       - name: Build
-        run: pnpm build
+        run: npm build
 
       # - name: cname
       #   run: echo pangyan.me >> public/CNAME
