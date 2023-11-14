@@ -217,7 +217,11 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Master Students</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>Jiaming Liang</li>
+                <li>
+                    <div>
+                      <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang</a>
+                    </div>          
+                </li>
                 <li>
                   
                     <div>
