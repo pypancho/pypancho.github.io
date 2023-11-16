@@ -230,7 +230,7 @@ const IndexPage = () => {
 
 
                 </li>
-                <li>Weiqing Kong, Ziyu Ding, Hui Li, Mingwei Chen</li>
+                <li>Weiqing Kong, Ziyu Ding, Yile Hong, Hui Li, Mingwei Chen</li>
                 <li>Yanjun Ming, Mingdu Zhang</li>
                 </ul>
             </div>
