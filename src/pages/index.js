@@ -1,5 +1,6 @@
 import * as React from "react"
-
+// <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/CV-Lectures"} target="_blank">Computer Vision Processing(181940016-1)</a>，
+// <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/Assembly-Lectures"} target="_blank">Assembly Language Processing(210600058-1).</a>
 // styles
 const pageStyles = {
   color: "#232129",
@@ -219,8 +220,6 @@ const IndexPage = () => {
               </ul>
             </div>
           </div>
-// <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/CV-Lectures"} target="_blank">Computer Vision Processing(181940016-1)</a>，
-// <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/Assembly-Lectures"} target="_blank">Assembly Language Processing(210600058-1).</a>
           <div id="students">
             <div className="text-blue-800 text-xl font-bold">Master Students</div>
             <div className="text-sm pl-10 py-3">
