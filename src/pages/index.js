@@ -210,7 +210,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Invited Talks</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>Haikou, China, May 25th, 2024:
+                <li>[May 25th, 2024] Haikou, China:
                   <div>  
                       “Optimizing Medical Image Analysis: Boosting Model Performance with Integrated Software and Hardware Solutions.” International Conference on Digital Image Processing 2024;
                   </div>
