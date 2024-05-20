@@ -216,37 +216,37 @@ const IndexPage = () => {
                   </div>
                 </li>
                     
-                <li>Hangzhou, China, Apr. 14th, 2024:
+                <li>[Apr 14, 2024] Hangzhou, China:
                   <div>  
                       “Improving Medical Image Analysis by Balancing Accuracy and Efficiency on Resource-Constrained Platforms”, The 3rd National Conference on Electronic Information Materials and Devices;
                   </div>
                 </li>
                     
-                <li>Shenzhen, China, Feb. 5th, 2024:
+                <li>[Feb. 5th, 2024] Shenzhen, China:
                   <div>  
                       “Enhancing Medical Image Analysis by Achieving an Optimal Balance Between Accuracy and Efficiency in Resource-Limited Platforms”, 16th International Conference on Machine Learning and Computing;
                   </div>
                 </li>
 
-                <li>Shanghai, China, Dec. 22nd, 2023:
+                <li>[Dec. 22nd, 2023] Shanghai, China:
                   <div>  
                       “Adaptive Hierarchical Semantic Approach for Change Detection”, The 9th International Conference on Signal Processing;
                   </div>
                 </li>
                     
-                <li>Macao, China, Dec. 12th, 2023:
+                <li>[Dec. 12th, 2023] Macao, China:
                   <div>  
                       “Optimizing Machine Learning Algorithms for Coordinated Software and Hardware Performance” University of Macao;
                   </div>
                 </li>  
 
-                <li>Luoyang, China, Dec. 1st, 2023:
+                <li>[Dec. 1st, 2023] Luoyang, China:
                   <div>  
                       “Application of Large-scale Model of Multimodal Medical Image Analysis” The First Affiliated Hospital of Henan University of Science & Technology;
                   </div>
                 </li>  
 
-                <li>Zhuhai, China, Jun. 7th, 2023:
+                <li>[Jun. 7th, 2023] Zhuhai, China:
                   <div>  
                       “Adaptive Graph Representation Learning”, Sun Yat-Sen University;
                   </div>
