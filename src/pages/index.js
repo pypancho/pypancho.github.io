@@ -101,6 +101,9 @@ const IndexPage = () => {
               <a href="#publications">Publications</a>
             </div>
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
+              <a href="#presentations"> Invited Talks</a>
+            </div>
+            <div className="mr-5 text-sm text-gray-300 hidden md:block">
               <a href="#teaching">Teaching Experiences</a>
             </div>
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
@@ -202,8 +205,58 @@ const IndexPage = () => {
             </div>
           </div>
 
-          
+           
+          <div id="presentations">
+            <div className="text-blue-800 text-xl font-bold">Invited Talks</div>
+            <div className="text-sm pl-10 py-3">
+              <ul className="list-disc">
+                <li>Haikou, China, May 25th, 2024:
+                  <div>  
+                      “Optimizing Medical Image Analysis: Boosting Model Performance with Integrated Software and Hardware Solutions.” International Conference on Digital Image Processing 2024;
+                  </div>
+                </li>
+                    
+                <li>Hangzhou, China, Apr. 14th, 2024:
+                  <div>  
+                      “Improving Medical Image Analysis by Balancing Accuracy and Efficiency on Resource-Constrained Platforms”, The 3rd National Conference on Electronic Information Materials and Devices;
+                  </div>
+                </li>
+                    
+                <li>Shenzhen, China, Feb. 5th, 2024:
+                  <div>  
+                      “Enhancing Medical Image Analysis by Achieving an Optimal Balance Between Accuracy and Efficiency in Resource-Limited Platforms”, 16th International Conference on Machine Learning and Computing;
+                  </div>
+                </li>
 
+                <li>Shanghai, China, Dec. 22nd, 2023:
+                  <div>  
+                      “Adaptive Hierarchical Semantic Approach for Change Detection”, The 9th International Conference on Signal Processing;
+                  </div>
+                </li>
+                    
+                <li>Macao, China, Dec. 12th, 2023:
+                  <div>  
+                      “Optimizing Machine Learning Algorithms for Coordinated Software and Hardware Performance” University of Macao;
+                  </div>
+                </li>  
+
+                <li>Luoyang, China, Dec. 1st, 2023:
+                  <div>  
+                      “Application of Large-scale Model of Multimodal Medical Image Analysis” The First Affiliated Hospital of Henan University of Science & Technology;
+                  </div>
+                </li>  
+
+                <li>Zhuhai, China, Jun. 7th, 2023:
+                  <div>  
+                      “Adaptive Graph Representation Learning”, Sun Yat-Sen University;
+                  </div>
+                </li>  
+                    
+              </ul>
+            </div>
+          </div>         
+
+              
           <div id="teaching">
             <div className="text-blue-800 text-xl font-bold">Teaching Experiences</div>
             <div className="text-sm pl-10 py-3">
@@ -220,6 +273,9 @@ const IndexPage = () => {
               </ul>
             </div>
           </div>
+
+
+              
           <div id="students">
             <div className="text-blue-800 text-xl font-bold">Master Students</div>
             <div className="text-sm pl-10 py-3">
