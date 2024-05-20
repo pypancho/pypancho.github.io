@@ -9,6 +9,12 @@ const pageStyles = {
 // data
 const links = [
   {
+    author: <div>Teng Huang, Yile Hong; <span className="font-bold">Yan Pang *</span>, Jiaming Liang, Jie Hong, Lin Huang, Yuan Zhang, Yan Jia, Patrizia Savi</div>,
+    title: "AdaptFormer: An Adaptive Hierarchical Semantic Approach for Change Detection on Remote Sensing Images",
+    jounal: "IEEE Transactions on Instrumentation and Measurement",
+    paper: "https://doi.org/10.1109/TIM.2024.3387494",
+  },
+  {
     author: <div><span className="font-bold">Yan Pang</span>, Jiaming Liang, Teng Huang, Hao Chen, Yunhao Li, Dan Li, Lin Huang, Qiong Wang</div>,
     title: "Slim UNETR: Scale Hybrid Transformers to Efficient 3D Medical Image Segmentation Under Limited Computational Resources",
     jounal: "IEEE Transactions on Medical Imaging",
@@ -148,12 +154,13 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Oct 20, 2023] <b>NEW:</b> One paper is published in the Journal of IEEE Transactions on Medical Imaging. (IF: 10.6).  <a className="text-blue-600 text-sm" href="https://github.com/aigzhusmart/Slim-UNETR" target="_blank">Code</a> is released.</li>
+                <li>[Apr 21, 2024] <b>NEW:</b> One paper is published in the Journal of IEEE Transactions on Instrumentation and Measurement. (IF: 5.6).  <a className="text-blue-600 text-sm" href="https://github.com/aigzhusmart/AdaptFormer" target="_blank">Code</a> is released.</li>
+                <li>[Oct 20, 2023] One paper is published in the Journal of IEEE Transactions on Medical Imaging. (IF: 10.6).  <a className="text-blue-600 text-sm" href="https://github.com/aigzhusmart/Slim-UNETR" target="_blank">Code</a> is released.</li>
                 <li>[Aug 14, 2023] One paper is published in the Journal of IEEE Transactions on Neural Networks and Learning Systems. (IF: 10.4).</li>
                 <li>[Feb 07, 2023] One paper published in the Journal of Information Sciences (IF: 8.233).</li>
                 <li>[Jan 06, 2023] <b>NEW:</b> Become a topic editor of the "<a className="text-blue-600 text-sm" href="https://www.mdpi.com/topics/FLN51J9SH1" target="_blank">AI and Data-Driven Advancements in Industry 4.0</a>". Welcome to submit your papers on AI.</li>
                 <li>[Aug 15, 2022] Joined to Guangzhou University, Guangdong.</li>
-                <li>[Jul 25, 2022] Two papers published to Journal of International Journal of Intelligent Systems （IF：8.993）.</li>
+                <li>[Jul 25, 2022] Two papers published in the Journal of International Journal of Intelligent Systems （IF：8.993）.</li>
                 <li>[Dec 18, 2021] Received my Ph.D. degree.</li>
                 <li>[Aug 01, 2021] One paper published in the Journal of Geophysical Research Letters (IF: 5.58). </li>
                 <li>[Apr 12, 2021] Joined to Moffett AI, Los Altos, CA.</li>
@@ -202,9 +209,9 @@ const IndexPage = () => {
               <ul className="list-disc">
                 <li>2022.09 - Present. Guangzhou University:
                   <div>  
-                        <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/CV-Lectures"} target="_blank">Computer Vision Processing(181940016-1)</a>，
-                        Natural Language Processing(180600065-1)，
-                        <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/Assembly-Lectures"} target="_blank">Assembly Language Processing(210600058-1).</a>
+                        // <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/CV-Lectures"} target="_blank">Computer Vision Processing(181940016-1)</a>，
+                        Computer Vision Processing(181940016-1), Natural Language Processing(180600065-1)，Assembly Language Processing(210600058-1).
+                        // <a className="text-blue-600 text-sm" href={"https://github.com/pypancho/Assembly-Lectures"} target="_blank">Assembly Language Processing(210600058-1).</a>
                   </div>
                 </li>
                 <li>2018.08 - 2021.05, Metropolitan State University of Denver, EET/CPE 2350 Advanced Technical Programming, EET/CPE 3330 Digital Circuits/Systems II，EET/CPE 4020 Digital Circuits/Systems III, CPE 4600 VLSI Circuits and Systems.</li>
@@ -242,7 +249,7 @@ const IndexPage = () => {
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2023 Yan Pang. All rights reserved</div>
-          <div>(Last update: Oct 22, 2023.)</div>
+          <div>(Last update: Apr 11, 2024.)</div>
         </div>
       </div>
     </main>
