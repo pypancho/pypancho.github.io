@@ -307,7 +307,7 @@ const IndexPage = () => {
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2024 Yan Pang. All rights reserved</div>
-          <div>(Last update: Apr 11, 2024.)</div>
+          <div>(Last update: Oct 20, 2024.)</div>
         </div>
       </div>
     </main>
