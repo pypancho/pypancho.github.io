@@ -158,11 +158,13 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Apr 21, 2024] <b>NEW:</b> One paper is published in the Journal of IEEE Transactions on Instrumentation and Measurement. (IF: 5.6).  <a className="text-blue-600 text-sm" href="https://github.com/aigzhusmart/AdaptFormer" target="_blank">Code</a> is released.</li>
+                <li>[Oct 19, 2024] <b>NEW:</b> Honored to be named one of the best ACs for #PRCV2024! Excited to contribute to this leading conference in computer vision.</li>
+                <li>[Oct 18, 2024] <b>NEW:</b> 🎉 Success! Papers 1458, 1464, and 1468 from our group are presented at PRCV 2024 in Urumqi.  Proud of my students' contributions to the field! #computervision #PRCV. </li>
+                <li>[Apr 21, 2024] One paper is published in the Journal of IEEE Transactions on Instrumentation and Measurement. (IF: 5.6).  <a className="text-blue-600 text-sm" href="https://github.com/aigzhusmart/AdaptFormer" target="_blank">Code</a> is released.</li>
                 <li>[Oct 20, 2023] One paper is published in the Journal of IEEE Transactions on Medical Imaging. (IF: 10.6).  <a className="text-blue-600 text-sm" href="https://github.com/aigzhusmart/Slim-UNETR" target="_blank">Code</a> is released.</li>
                 <li>[Aug 14, 2023] One paper is published in the Journal of IEEE Transactions on Neural Networks and Learning Systems. (IF: 10.4).</li>
                 <li>[Feb 07, 2023] One paper published in the Journal of Information Sciences (IF: 8.233).</li>
-                <li>[Jan 06, 2023] <b>NEW:</b> Become a topic editor of the "<a className="text-blue-600 text-sm" href="https://www.mdpi.com/topics/FLN51J9SH1" target="_blank">AI and Data-Driven Advancements in Industry 4.0</a>". Welcome to submit your papers on AI.</li>
+                <li>[Jan 06, 2023] Become a topic editor of the "<a className="text-blue-600 text-sm" href="https://www.mdpi.com/topics/FLN51J9SH1" target="_blank">AI and Data-Driven Advancements in Industry 4.0</a>". Welcome to submit your papers on AI.</li>
                 <li>[Aug 15, 2022] Joined to Guangzhou University, Guangdong.</li>
                 <li>[Jul 25, 2022] Two papers published in the Journal of International Journal of Intelligent Systems （IF：8.993）.</li>
                 <li>[Dec 18, 2021] Received my Ph.D. degree.</li>
