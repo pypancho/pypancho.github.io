@@ -158,7 +158,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Dec 12, 2024] <b>NEW:</b> Welcome to submit your papers to our special topics "<a className="text-blue-600 text-sm" href="https://www.mdpi.com/topics/FLN51J9SH1" target="_blank">AI and Data-Driven Advancements in Industry 4.0, 2nd Edition</a>".</li>
+                <li>[Dec 12, 2024] <b>NEW:</b> Welcome to submit your papers to our special topics "<a className="text-blue-600 text-sm" href="https://www.mdpi.com/topics/0ZZS608U21" target="_blank">AI and Data-Driven Advancements in Industry 4.0, 2nd Edition</a>".</li>
                 <li>[Oct 19, 2024] Honored to be named one of the best ACs for PRCV2024! Excited to contribute to this leading conference in computer vision.</li>
                 <li>[Oct 18, 2024] 🎉 Success! Papers 1458, 1464, and 1468 from our group are presented at <a className="text-blue-600 text-sm" href="http://www.prcv.cn/" target="_blank">PRCV 2024</a> in Urumqi. Proud of my students' contributions to the field! </li>
                 <li>[Apr 21, 2024] One paper is published in the Journal of IEEE Transactions on Instrumentation and Measurement. (IF: 5.6).  <a className="text-blue-600 text-sm" href="https://github.com/aigzhusmart/AdaptFormer" target="_blank">Code</a> is released.</li>
