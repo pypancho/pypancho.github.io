@@ -158,8 +158,9 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Oct 19, 2024] <b>NEW:</b> Honored to be named one of the best ACs for PRCV2024! Excited to contribute to this leading conference in computer vision.</li>
-                <li>[Oct 18, 2024] <b>NEW:</b> 🎉 Success! Papers 1458, 1464, and 1468 from our group are presented at <a className="text-blue-600 text-sm" href="http://www.prcv.cn/" target="_blank">PRCV 2024</a> in Urumqi. Proud of my students' contributions to the field! </li>
+                <li>[Dec 12, 2024] <b>NEW:</b> Welcome to submit your papers to our special topics "<a className="text-blue-600 text-sm" href="https://www.mdpi.com/topics/FLN51J9SH1" target="_blank">AI and Data-Driven Advancements in Industry 4.0, 2nd Edition</a>".</li>
+                <li>[Oct 19, 2024] Honored to be named one of the best ACs for PRCV2024! Excited to contribute to this leading conference in computer vision.</li>
+                <li>[Oct 18, 2024] 🎉 Success! Papers 1458, 1464, and 1468 from our group are presented at <a className="text-blue-600 text-sm" href="http://www.prcv.cn/" target="_blank">PRCV 2024</a> in Urumqi. Proud of my students' contributions to the field! </li>
                 <li>[Apr 21, 2024] One paper is published in the Journal of IEEE Transactions on Instrumentation and Measurement. (IF: 5.6).  <a className="text-blue-600 text-sm" href="https://github.com/aigzhusmart/AdaptFormer" target="_blank">Code</a> is released.</li>
                 <li>[Oct 20, 2023] One paper is published in the Journal of IEEE Transactions on Medical Imaging. (IF: 10.6).  <a className="text-blue-600 text-sm" href="https://github.com/aigzhusmart/Slim-UNETR" target="_blank">Code</a> is released.</li>
                 <li>[Aug 14, 2023] One paper is published in the Journal of IEEE Transactions on Neural Networks and Learning Systems. (IF: 10.4).</li>
@@ -307,7 +308,7 @@ const IndexPage = () => {
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2024 Yan Pang. All rights reserved</div>
-          <div>(Last update: Oct 20, 2024.)</div>
+          <div>(Last update: Dec 12, 2024.)</div>
         </div>
       </div>
     </main>
