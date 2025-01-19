@@ -10,7 +10,7 @@ const pageStyles = {
 // data
 const links = [
    {
-    author: <div> <span className="font-bold">Yan Pang *</span>, Yunhao Li, Teng Huang, Jiaming Liang, Zhen Wang, Changyu Dong, Dongyang Kuang, Ying Hu, Hao Chen, Tim Lei, Qiong Wang</div>,
+    author: <div> <span className="font-bold">Yan Pang </span>, Yunhao Li, Teng Huang, Jiaming Liang, Zhen Wang, Changyu Dong, Dongyang Kuang, Ying Hu, Hao Chen, Tim Lei, Qiong Wang</div>,
     title: "Online Self-distillation and Self-modeling for 3D Brain Tumor Segmentation",
     jounal: "IEEE Journal of Biomedical and Health Informatics",
     paper: "https://doi.org/10.1109/JBHI.2025.3530715",
