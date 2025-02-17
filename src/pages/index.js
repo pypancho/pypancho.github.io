@@ -68,19 +68,19 @@ const links = [
     title: "Automatic detection and quantification of hand movements toward development of an objective assessment of tremor and bradykinesia in Parkinson's disease",
     jounal: "Journal of neuroscience methods",
     paper: "https://doi.org/10.1016/j.jneumeth.2019.108576",
-  },
-  {
-    author: <div> Akimun Jannat Alvina, Vijay Harid, Mark Golkowski, Chao Liu, Poorya Hosseini, <span className="font-bold">Yan Pang</span> </div>,
-    title: "Source Characterization and Localization of Lightning Generated Whistlers Observed at Palmer Station",
-    jounal: "AGU Meeting 2022",
-    paper: "https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1184878",
-  },
-  {
-    author: <div>Feng Jiang, <span className="font-bold">Yan Pang</span>, ThienNgo N Lee, Chao Liu </div>,
-    title: "Automatic object segmentation based on grabcut",
-    jounal: "Science and Information Conference",
-    paper: "https://doi.org/10.1007/978-3-030-17795-9_25",
   }
+  //{
+  //  author: <div> Akimun Jannat Alvina, Vijay Harid, Mark Golkowski, Chao Liu, Poorya Hosseini, <span className="font-bold">Yan Pang</span> </div>,
+  //  title: "Source Characterization and Localization of Lightning Generated Whistlers Observed at Palmer Station",
+  //  jounal: "AGU Meeting 2022",
+  //  paper: "https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1184878",
+  //},
+  // {
+    // author: <div>Feng Jiang, <span className="font-bold">Yan Pang</span>, ThienNgo N Lee, Chao Liu </div>,
+    //title: "Automatic object segmentation based on grabcut",
+    //jounal: "Science and Information Conference",
+    //paper: "https://doi.org/10.1007/978-3-030-17795-9_25",
+  //}
 ]
 
 
@@ -220,9 +220,14 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Invited Talks</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
+                <li>[Feb 15th, 2025] Guangzhou, China:
+                  <div>  
+                      “Enabling Real-Time Medical Imaging on Edge Devices: Co-Optimizing Accuracy and Computational Efficiency”, 17th International Conference on Machine Learning and Computing 2025;
+                  </div>
+                </li>
                 <li>[May 25th, 2024] Haikou, China:
                   <div>  
-                      “Optimizing Medical Image Analysis: Boosting Model Performance with Integrated Software and Hardware Solutions.” International Conference on Digital Image Processing 2024;
+                      “Optimizing Medical Image Analysis: Boosting Model Performance with Integrated Software and Hardware Solutions”, International Conference on Digital Image Processing 2024;
                   </div>
                 </li>
                     
@@ -315,7 +320,7 @@ const IndexPage = () => {
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2025 Yan Pang. All rights reserved</div>
-          <div>(Last update: Jan 16, 2025.)</div>
+          <div>(Last update: Feb 15, 2025.)</div>
         </div>
       </div>
     </main>
