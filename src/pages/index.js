@@ -10,6 +10,12 @@ const pageStyles = {
 // data
 const links = [
    {
+    author: <div> <span className="font-bold">Yan Pang </span>, Yunhao Li, Teng Huang, Jiaming Liang, Ziyu Ding, Hao Chen, Baoliang Zhao, Ying Hu, Zheng Zhang, Qiong Wang</div>,
+    title: "Efficient Breast Lesion Segmentation from Ultrasound Videos Across Multiple Source-limited Platforms",
+    jounal: "IEEE Journal of Biomedical and Health Informatics",
+    paper: "https://ieeexplore.ieee.org/document/10892059",
+   },
+   {
     author: <div> <span className="font-bold">Yan Pang </span>, Yunhao Li, Teng Huang, Jiaming Liang, Zhen Wang, Changyu Dong, Dongyang Kuang, Ying Hu, Hao Chen, Tim Lei, Qiong Wang</div>,
     title: "Online Self-distillation and Self-modeling for 3D Brain Tumor Segmentation",
     jounal: "IEEE Journal of Biomedical and Health Informatics",
@@ -164,6 +170,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
+                <li>[Feb 19, 2025] <b>NEW:</b> One paper is published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/BaS" target="_blank">Code</a> is released.</li>
                 <li>[Jan 16, 2025] <b>NEW:</b> One paper is published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/MOD" target="_blank">Code</a> is released.</li>
                 <li>[Dec 12, 2024] <b>NEW:</b> Welcome to submit your papers to our special topics "<a className="text-blue-600 text-sm" href="https://www.mdpi.com/topics/0ZZS608U21" target="_blank">AI and Data-Driven Advancements in Industry 4.0, 2nd Edition</a>".</li>
                 <li>[Oct 19, 2024] Honored to be named one of the best ACs for PRCV2024! Excited to contribute to this leading conference in computer vision.</li>
@@ -320,7 +327,7 @@ const IndexPage = () => {
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2025 Yan Pang. All rights reserved</div>
-          <div>(Last update: Feb 15, 2025.)</div>
+          <div>(Last update: Feb 19, 2025.)</div>
         </div>
       </div>
     </main>
