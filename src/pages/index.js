@@ -13,7 +13,7 @@ const links = [
     author: <div> Jiahui Huang, Teng Huang, Changyu Dong, Sisi Duan, <span className="font-bold">Yan Pang *</span></div>,
     title: "Hierarchical Network with Local-Global Awareness for Ethereum Account De-anonymization",
     jounal: "IEEE Transactions on Systems, Man and Cybernetics: Systems",
-    paper: "https://ieeexplore.ieee.org/document/10892059",
+    paper: "https://ieeexplore.ieee.org/document/11037616",
    },
    {
     author: <div> <span className="font-bold">Yan Pang </span>, Yunhao Li, Teng Huang, Jiaming Liang, Ziyu Ding, Hao Chen, Baoliang Zhao, Ying Hu, Zheng Zhang, Qiong Wang</div>,
