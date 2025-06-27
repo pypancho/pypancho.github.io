@@ -121,9 +121,9 @@ const IndexPage = () => {
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
               <a href="#presentations"> Invited Talks</a>
             </div>
-            </div>
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
               <a href="#patents">Patents</a>
+            </div>
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
               <a href="#teaching">Teaching Experiences</a>
             </div>
