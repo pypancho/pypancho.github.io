@@ -176,8 +176,9 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Feb 19, 2025] <b>NEW:</b> One paper is published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/BaS" target="_blank">Code</a> is released.</li>
-                <li>[Jan 16, 2025] <b>NEW:</b> One paper is published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/MOD" target="_blank">Code</a> is released.</li>
+                <li>[Jun 17, 2025] <b>NEW:</b> IEEE Transactions on Systems, Man and Cybernetics: Systems. (IF: 8.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/LGA" target="_blank">Code</a> is released.</li>
+                <li>[Feb 19, 2025] One paper is published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/BaS" target="_blank">Code</a> is released.</li>
+                <li>[Jan 16, 2025] One paper is published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/MOD" target="_blank">Code</a> is released.</li>
                 <li>[Dec 12, 2024] <b>NEW:</b> Welcome to submit your papers to our special topics "<a className="text-blue-600 text-sm" href="https://www.mdpi.com/topics/0ZZS608U21" target="_blank">AI and Data-Driven Advancements in Industry 4.0, 2nd Edition</a>".</li>
                 <li>[Oct 19, 2024] Honored to be named one of the best ACs for PRCV2024! Excited to contribute to this leading conference in computer vision.</li>
                 <li>[Oct 18, 2024] 🎉 Success! Papers 1458, 1464, and 1468 from our group are presented at <a className="text-blue-600 text-sm" href="http://www.prcv.cn/" target="_blank">PRCV 2024</a> in Urumqi. Proud of my students' contributions to the field! </li>
