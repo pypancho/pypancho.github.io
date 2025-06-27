@@ -121,6 +121,9 @@ const IndexPage = () => {
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
               <a href="#presentations"> Invited Talks</a>
             </div>
+            </div>
+            <div className="mr-5 text-sm text-gray-300 hidden md:block">
+              <a href="#patents">Patents</a>
             <div className="mr-5 text-sm text-gray-300 hidden md:block">
               <a href="#teaching">Teaching Experiences</a>
             </div>
@@ -285,7 +288,22 @@ const IndexPage = () => {
             </div>
           </div>         
 
-              
+          <div id="patents">
+            <div className="text-blue-800 text-xl font-bold">Educations</div>
+            <div className="text-sm pl-10 py-3">
+              <ul className="list-disc">
+                <li>一种医学图像分割方法、装置及介质，授权号: ZL202410616680.3</li>
+                <li>用户身份识别方法、系统、设备及存储介质, 授权号: ZL202410633064.9</li>
+                <li>防御模型被窃取攻击的方法、系统、设备及存储介质, 授权号: ZL202410456738.2 </li>
+                <li>自蒸馏与自学习的医学图像分割方法、装置及存储介质, 授权号: ZL202410615709.6 </li>
+                <li>医学视频乳腺病变特征快速分割方法、装置、设备及介质, 授权号: ZL202410485386.3 </li>
+                <li>基于标记移除网络的高精度钢琴手势数据集构建方法, 授权号: ZL202411072622.5 </li>                
+                <li>图像识别方法、装置、设备及存储介质, 授权号: ZL202410623942.9 </li>
+                <li>智能合约的漏洞检测方法、装置、设备及介质, 授权号: ZL202410547779.2 </li>
+              </ul>
+            </div>
+          </div>
+                    
           <div id="teaching">
             <div className="text-blue-800 text-xl font-bold">Teaching Experiences</div>
             <div className="text-sm pl-10 py-3">
