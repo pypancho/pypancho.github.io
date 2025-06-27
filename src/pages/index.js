@@ -311,7 +311,7 @@ const IndexPage = () => {
               <ul className="list-disc">
                 <li>2024: Jie Hong, Dan Li, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang</a></li>
                 <li>2025: <a className="text-blue-600 text-sm" href={"https://peterli.club/"} target="_blank">Yunhao Li</a>, Yile Hong, Hui Li, Mingwei Chen</li>
-                <li>2026: Caiyan Tan, Yanjun Ming, Mingdu Zhang, Junming Zi, Xiangfu Liu</li>
+                <li>2026: Caiyan Tan, Yanjun Ming, Mingdu Zhang, Xiangfu Liu, Zibin Chen</li>
                 </ul>
             </div>
         </div>
