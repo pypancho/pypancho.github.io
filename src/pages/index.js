@@ -289,7 +289,7 @@ const IndexPage = () => {
           </div>         
 
           <div id="patents">
-            <div className="text-blue-800 text-xl font-bold">Educations</div>
+            <div className="text-blue-800 text-xl font-bold">Patents</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
                 <li>一种医学图像分割方法、装置及介质，授权号: ZL202410616680.3</li>
