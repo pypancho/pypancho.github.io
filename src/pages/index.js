@@ -309,19 +309,6 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Master Students</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>
-                    <div>
-                      <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang</a>
-                    </div>          
-                </li>
-                <li>
-                  
-                    <div>
-                      <a className="text-blue-600 text-sm" href={"https://peterli.club/"} target="_blank">Yunhao Li</a>
-                    </div>
-
-
-                </li>
                 <li>2024: Jie Hong, Dan Li, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang</a></li>
                 <li>2025: Yile Hong, Hui Li, Mingwei Chen</li>
                 <li>2026: <a className="text-blue-600 text-sm" href={"https://peterli.club/"} target="_blank">Yunhao Li</a>, Caiyan Tan, Yanjun Ming, Mingdu Zhang, Junming Zi, Xiangfu Liu</li>
