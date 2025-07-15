@@ -8,7 +8,13 @@ const pageStyles = {
 }
 
 // data
-const links = [
+const links = [    
+    {
+    author: <div> Teng Huang, Jiahui Huang, Changyu Dong, Sisi Duan, <span className="font-bold">Yan Pang *</span></div>,
+    title: "SAMamba: Structure-Aware Mamba for Ethereum Fraud Detection",
+    jounal: "IEEE Transactions on Information Forensics and Security",
+    paper: "https://ieeexplore.ieee.org/document/11080015",
+   },
     {
     author: <div> Jiahui Huang, Teng Huang, Changyu Dong, Sisi Duan, <span className="font-bold">Yan Pang *</span></div>,
     title: "Hierarchical Network with Local-Global Awareness for Ethereum Account De-anonymization",
@@ -179,6 +185,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
+                <li>[Jul 14, 2025] <b>NEW:</b> One paper is published in the IEEE Transactions on Information Forensics and Security. (IF: 8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/SAMamba" target="_blank">Code</a> is released.</li>
                 <li>[Jun 17, 2025] <b>NEW:</b> One paper is published in the IEEE Transactions on Systems, Man and Cybernetics: Systems. (IF: 8.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/LGA" target="_blank">Code</a> is released.</li>
                 <li>[Feb 19, 2025] One paper is published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/BaS" target="_blank">Code</a> is released.</li>
                 <li>[Jan 16, 2025] One paper is published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/MOD" target="_blank">Code</a> is released.</li>
@@ -340,7 +347,7 @@ const IndexPage = () => {
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2025 Yan Pang. All rights reserved</div>
-          <div>(Last update: Jun 17, 2025.)</div>
+          <div>(Last update: Jul 14, 2025.)</div>
         </div>
       </div>
     </main>
