@@ -222,7 +222,7 @@ const IndexPage = () => {
           </div>
 
           <div id="publications">
-            <div className="text-blue-800 text-xl font-bold">Recent Publications</div>
+            <div className="text-blue-800 text-xl font-bold">Journal Publications</div>
             <div className="py-3">
               {links.map((link, id) =>
                 <div key={id} className="mb-8 flex flex-row flex-wrap items-center">
