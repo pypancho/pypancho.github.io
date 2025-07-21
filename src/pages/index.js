@@ -244,6 +244,11 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Invited Talks</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
+                  <li>[Jul 20th, 2025] Shenzhen, China:
+                  <div>  
+                      “Embodied Intelligent Surgical Robots: A Paradigm Shift from Passive Tools to Active Partners”, South China Hospital of Shenzhen University;
+                  </div>
+                </li>
                 <li>[Feb 15th, 2025] Guangzhou, China:
                   <div>  
                       “Enabling Real-Time Medical Imaging on Edge Devices: Co-Optimizing Accuracy and Computational Efficiency”, 17th International Conference on Machine Learning and Computing 2025;
@@ -275,13 +280,13 @@ const IndexPage = () => {
                     
                 <li>[Dec. 12th, 2023] Macao, China:
                   <div>  
-                      “Optimizing Machine Learning Algorithms for Coordinated Software and Hardware Performance” University of Macao;
+                      “Optimizing Machine Learning Algorithms for Coordinated Software and Hardware Performance”, University of Macao;
                   </div>
                 </li>  
 
                 <li>[Dec. 1st, 2023] Luoyang, China:
                   <div>  
-                      “Application of Large-scale Model of Multimodal Medical Image Analysis” The First Affiliated Hospital of Henan University of Science & Technology;
+                      “Application of Large-scale Model of Multimodal Medical Image Analysis”, The First Affiliated Hospital of Henan University of Science & Technology;
                   </div>
                 </li>  
 
@@ -353,7 +358,7 @@ const IndexPage = () => {
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2025 Yan Pang. All rights reserved</div>
-          <div>(Last update: Jul 14, 2025.)</div>
+          <div>(Last update: Jul 20, 2025.)</div>
         </div>
       </div>
     </main>
