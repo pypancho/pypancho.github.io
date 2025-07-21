@@ -336,8 +336,7 @@ const IndexPage = () => {
               
           <div id="students">
             <div className="text-blue-800 text-xl font-bold">Students</div>
-            //<p className="text-sm"> <span className="font-bold">Masters: </span> </p>
-            <p className="text-sm font-bold">Masters: </p>
+            <p className="text-sm font-bold">  Masters: </p>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
                 <li>Graduates of 2024: Jie Hong, Dan Li, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang</a></li>
