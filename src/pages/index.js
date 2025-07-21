@@ -320,7 +320,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Teaching Experiences</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>2022.09 - Present. Guangzhou University:
+                <li>2022.09 - 2025.09 Guangzhou University:
                   <div>  
                         Computer Vision Processing(181940016-1), Natural Language Processing(180600065-1)，Assembly Language Processing(210600058-1).
                   </div>
