@@ -148,7 +148,7 @@ const IndexPage = () => {
             </div>
             <div className="flex-1 ml-3 mt-3 md:mt-0">
               <p className="mt-3">
-              <b>Associate professor</b> at the Institute of Artificial Intelligence at <b>Guangzhou University</b>, China. </p>
+              <b>Associate professor</b> at the School of Artificial Intelligence at <b>Guangzhou University</b>, China. </p>
               <p className="mt-3">
               Dr. Pang received the Ph.D. degree from the University of Colorado in 2021. His research interests span <b>machine learning, computer vision, efficient deep learning</b>, etc.
               </p>
@@ -331,15 +331,16 @@ const IndexPage = () => {
 
               
           <div id="students">
-            <div className="text-blue-800 text-xl font-bold">Master Students</div>
+            <div className="text-blue-800 text-xl font-bold">Students</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>2024: Jie Hong, Dan Li, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang</a></li>
-                <li>2025: <a className="text-blue-600 text-sm" href={"https://peterli.club/"} target="_blank">Yunhao Li</a>, Yile Hong, Hui Li, Mingwei Chen</li>
-                <li>2026: Caiyan Tan, Yanjun Ming, Mingdu Zhang, Xiangfu Liu, Zibin Chen</li>
+                <li>Master's Graduates of 2024: Jie Hong, Dan Li, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang</a></li>
+                <li>Master's Graduates of 2025: <a className="text-blue-600 text-sm" href={"https://peterli.club/"} target="_blank">Yunhao Li</a>, Yile Hong, Hui Li, Mingwei Chen</li>
+                <li>Third-Year Master's Student: Caiyan Tan, Yanjun Ming, Mingdu Zhang, Xiangfu Liu, Zibin Chen</li>
+                <li>Second-Year Master's Student: Aoying Wang, Xing Wang</li>
                 </ul>
             </div>
-        </div>
+          </div>
 
         </div>
         
