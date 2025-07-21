@@ -317,13 +317,17 @@ const IndexPage = () => {
               <ul className="list-disc">
                 <li>2022.09 - Present. Guangzhou University:
                   <div>  
-                        
                         Computer Vision Processing(181940016-1), Natural Language Processing(180600065-1)，Assembly Language Processing(210600058-1).
-                        
                   </div>
                 </li>
-                <li>2018.08 - 2021.05, Metropolitan State University of Denver, EET/CPE 2350 Advanced Technical Programming, EET/CPE 3330 Digital Circuits/Systems II，EET/CPE 4020 Digital Circuits/Systems III, CPE 4600 VLSI Circuits and Systems.</li>
-                <li>2017.08 - 2021.05, University of Colorado Denver, ELEC 4561 Hardware and Software Interface, ELEC 2531 Logic Lab.</li>
+                <li>2018.08 - 2021.05, Metropolitan State University of Denver:
+                  <div>
+                  EET/CPE 2350 Advanced Technical Programming, EET/CPE 3330 Digital Circuits/Systems II, EET/CPE 4020 Digital Circuits/Systems III, CPE 4600 VLSI Circuits and Systems.
+                  </div>
+                </li>
+                <li>2017.08 - 2021.05, University of Colorado Denver:
+                    <div>ELEC 4561 Hardware and Software Interface, ELEC 2531 Logic Lab.</div>
+                </li>
               </ul>
             </div>
           </div>
@@ -333,8 +337,8 @@ const IndexPage = () => {
           <div id="students">
             <div className="text-blue-800 text-xl font-bold">Students</div>
             <div className="text-sm pl-10 py-3">
+              <li><span className="font-bold">Masters: </span></li>
               <ul className="list-disc">
-                <li><span className="font-bold">Masters: *</span></li>
                 <li>Graduates of 2024: Jie Hong, Dan Li, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang</a></li>
                 <li>Graduates of 2025: <a className="text-blue-600 text-sm" href={"https://peterli.club/"} target="_blank">Yunhao Li</a>, Yile Hong, Hui Li, Mingwei Chen</li>
                 <li>Third-Year Student: Caiyan Tan, Yanjun Ming, Mingdu Zhang, Xiangfu Liu, Zibin Chen</li>
