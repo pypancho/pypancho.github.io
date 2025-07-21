@@ -334,10 +334,11 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Students</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>Master's Graduates of 2024: Jie Hong, Dan Li, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang</a></li>
-                <li>Master's Graduates of 2025: <a className="text-blue-600 text-sm" href={"https://peterli.club/"} target="_blank">Yunhao Li</a>, Yile Hong, Hui Li, Mingwei Chen</li>
-                <li>Third-Year Master's Student: Caiyan Tan, Yanjun Ming, Mingdu Zhang, Xiangfu Liu, Zibin Chen</li>
-                <li>Second-Year Master's Student: Aoying Wang, Xing Wang</li>
+                <li><span className="font-bold">Masters: *</span></li>
+                <li>Graduates of 2024: Jie Hong, Dan Li, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang</a></li>
+                <li>Graduates of 2025: <a className="text-blue-600 text-sm" href={"https://peterli.club/"} target="_blank">Yunhao Li</a>, Yile Hong, Hui Li, Mingwei Chen</li>
+                <li>Third-Year Student: Caiyan Tan, Yanjun Ming, Mingdu Zhang, Xiangfu Liu, Zibin Chen</li>
+                <li>Second-Year Student: Aoying Wang, Xing Wang</li>
                 </ul>
             </div>
           </div>
