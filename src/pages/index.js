@@ -167,7 +167,8 @@ const IndexPage = () => {
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
                 <li>Medical Image Analysis</li>
-                <li>Large Vision Models</li>
+                <li>Embodied Intelligent Surgical Robot</li>
+                <li>Large-scale Vision Models</li>
                 <li>On-device Models</li> 
                 <li>Graph Neural Networks</li>
                 <li>Semantic Segmentation</li>
