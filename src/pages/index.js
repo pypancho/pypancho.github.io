@@ -87,18 +87,6 @@ const links = [
     jounal: "Journal of neuroscience methods",
     paper: "https://doi.org/10.1016/j.jneumeth.2019.108576",
   }
-  //{
-  //  author: <div> Akimun Jannat Alvina, Vijay Harid, Mark Golkowski, Chao Liu, Poorya Hosseini, <span className="font-bold">Yan Pang</span> </div>,
-  //  title: "Source Characterization and Localization of Lightning Generated Whistlers Observed at Palmer Station",
-  //  jounal: "AGU Meeting 2022",
-  //  paper: "https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1184878",
-  //},
-  // {
-    // author: <div>Feng Jiang, <span className="font-bold">Yan Pang</span>, ThienNgo N Lee, Chao Liu </div>,
-    //title: "Automatic object segmentation based on grabcut",
-    //jounal: "Science and Information Conference",
-    //paper: "https://doi.org/10.1007/978-3-030-17795-9_25",
-  //}
 ]
 
 
