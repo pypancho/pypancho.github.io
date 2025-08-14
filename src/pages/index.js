@@ -13,7 +13,7 @@ const links = [
     author: <div> <span className="font-bold">Yan Pang</span>, Xiangfu Liu, Teng Huang, Yile Hong, Jiahui Huang, Changyu Dong</div>,
     title: "Graph-based Contract Sensing Framework for Smart Contract Vulnerability Detection",
     jounal: "IEEE Transactions on Big Data",
-    paper: "ttps://ieeexplore.ieee.org/document/11104930",
+    paper: "https://ieeexplore.ieee.org/document/11104930",
     },
     {
     author: <div> Teng Huang, Jiahui Huang, Changyu Dong, Sisi Duan, <span className="font-bold">Yan Pang *</span></div>,
