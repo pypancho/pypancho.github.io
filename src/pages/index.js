@@ -10,6 +10,12 @@ const pageStyles = {
 // data
 const links = [
     {
+    author: <div><span className="font-bold">Yan Pang</span>, Jiaming Liang, Junming Yan, Ying Hu, Hao Chen, Qiong Wang</div>,
+    title: "Slim UNETRV2: 3D Image Segmentation for Resource-Limited Medical Portable Devices",
+    jounal: "IEEE Transactions on Medical Imaging",
+    paper: "https://doi.org/10.1109/TMI.2025.3602145",
+    },
+    {
     author: <div> <span className="font-bold">Yan Pang</span>, Xiangfu Liu, Teng Huang, Yile Hong, Jiahui Huang, Changyu Dong</div>,
     title: "Graph-based Contract Sensing Framework for Smart Contract Vulnerability Detection",
     jounal: "IEEE Transactions on Big Data",
@@ -180,8 +186,9 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Oct 23, 2024] <b>NEW:</b> 🎉 Success! Papers 1614, 1833, and 2000 from our group are presented at <a className="text-blue-600 text-sm" href="http://2025.prcv.cn/" target="_blank">PRCV 2025</a> in Shanghai. Proud of my students' contributions to the field! </li>
-                <li>[Jul 30, 2025] <b>NEW:</b> One paper has been published in the IEEE Transactions on Big Data. (IF: 5.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/Consense" target="_blank">Code</a> is released.</li>
+                <li>[Aug 25, 2025] <b>NEW:</b> One paper has been published in the Journal of IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/Slim-UNETRV2" target="_blank">Code</a> is released.</li>
+                <li>[Aug 23, 2025] <b>NEW:</b> 🎉 Success! Papers 1614, 1833, and 2000 from our group are presented at <a className="text-blue-600 text-sm" href="http://2025.prcv.cn/" target="_blank">PRCV 2025</a> in Shanghai. Proud of my students' contributions to the field! </li>
+                <li>[Jul 30, 2025] One paper has been published in the IEEE Transactions on Big Data. (IF: 5.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/Consense" target="_blank">Code</a> is released.</li>
                 <li>[Jul 14, 2025] One paper has been published in the IEEE Transactions on Information Forensics and Security. (IF: 8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/SAMamba" target="_blank">Code</a> is released.</li>
                 <li>[Jun 17, 2025] One paper has been published in the IEEE Transactions on Systems, Man and Cybernetics: Systems. (IF: 8.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/LGA" target="_blank">Code</a> is released.</li>
                 <li>[Feb 19, 2025] One paper has been published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/BaS" target="_blank">Code</a> is released.</li>
@@ -355,7 +362,7 @@ const IndexPage = () => {
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2025 Yan Pang. All rights reserved</div>
-          <div>(Last update: Aug 23, 2025.)</div>
+          <div>(Last update: Aug 25, 2025.)</div>
         </div>
       </div>
     </main>
