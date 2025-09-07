@@ -179,9 +179,9 @@ const IndexPage = () => {
           </div>
 
           <div id="news">
-            <div className="text-blue-800 text-xl font-bold">News</div>
+            <div className="text-blue-800 text-xl font-bold ">News</div>
             <div className="text-sm pl-10 py-3 text-align: justify;">
-              <ul className="list-disc">
+              <ul className="list-disc text-align: justify;">
                 <li>[Aug 25, 2025] <b>NEW:</b> One paper has been published in the Journal of IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/Slim-UNETRV2" target="_blank">Code</a> is released.</li>
                 <li>[Aug 23, 2025] <b>NEW:</b> 🎉 Success! Papers 1614, 1833, and 2000 from our group are presented at <a className="text-blue-600 text-sm" href="http://2025.prcv.cn/" target="_blank">PRCV 2025</a> in Shanghai. Proud of my students' contributions to the field! </li>
                 <li>[Jul 30, 2025] One paper has been published in the IEEE Transactions on Big Data. (IF: 5.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/Consense" target="_blank">Code</a> is released.</li>
