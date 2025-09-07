@@ -146,6 +146,7 @@ const IndexPage = () => {
             <div>
               <img className="w-full md:w-60" src="https://pbs.twimg.com/media/FH6H1i4UUAEyhAN?format=jpg&name=medium"></img>
             </div>
+            <div style="width: 100%; text-align: justify;">
             <div className="flex-1 ml-3 mt-3 md:mt-0">
               <p className="mt-3">
               <b>Associate professor</b> at the <b>Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</b>, China. </p>
@@ -154,6 +155,7 @@ const IndexPage = () => {
               <div className="mt-3 text-xs text-gray-600">
                 <div> <span className="font-bold">Address:</span> 1068 Xueyuan Avenue, Shenzhen University Town, Shenzhen, 518055 China | <span className="font-bold">Email:</span> yanpang@siat.ac.cn</div>
               </div>
+            </div>
             </div>
           </div>
 
