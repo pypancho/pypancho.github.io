@@ -149,7 +149,7 @@ const IndexPage = () => {
             <div className="flex-1 ml-3 mt-3 md:mt-0">
               <p className="mt-3">
               <b>Associate professor</b> at the <b>Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</b>, Shenzhen, China. </p>
-              <p className="mt-3">
+              <p className="mt-3"style="text-align: justify;">
               Dr. Pang earned his Ph.D. from the University of Colorado in 2021. His research focuses on computer vision, smart healthcare, on-device frameworks, and specialized chips for embodied intelligent surgical robot navigation systems. Between September 2022 and September 2025, he served as an associate professor at Guangzhou University in China. Prior to this, Dr. Pang worked as a machine learning scientist at Moffett AI in Los Altos, CA, from April 2021 to May 2022. He also held instructor positions at the University of Colorado Denver (Department of Electrical Engineering) and Metropolitan State University of Denver (Department of Electrical Engineering Technology) from August 2018 to May 2021. 
               </p>
               <div className="mt-3 text-xs text-gray-600">
