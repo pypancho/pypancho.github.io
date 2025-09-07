@@ -146,10 +146,10 @@ const IndexPage = () => {
             <div>
               <img className="w-full md:w-60" src="https://pbs.twimg.com/media/FH6H1i4UUAEyhAN?format=jpg&name=medium"></img>
             </div>
-            <div className="flex-1 ml-3 mt-3 md:mt-0; text-align: justify;">
+            <div className="flex-1 ml-3 mt-3 md:mt-0 text-align: justify;">
               <p className="mt-3">
               <b>Associate professor</b> at the <b>Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</b>, China. </p>
-              <p className="mt-3">Dr. Pang earned his Ph.D. from the University of Colorado in 2021. His research focuses on computer vision, smart healthcare, and embodied intelligent surgical robot navigation systems. Between Sep. 2022 and Sep. 2025, he served as an associate professor at Guangzhou University in China. Prior to this, Dr. Pang worked as a machine learning scientist at Moffett AI in Los Altos, CA, from April 2021 to May 2022. He also held instructor positions at the University of Colorado Denver (Department of Electrical Engineering) and Metropolitan State University of Denver (Department of Electrical Engineering Technology) from August 2018 to May
+              <p className="mt-3">Dr. Pang earned his Ph.D. from the University of Colorado in 2021. His research focuses on computer vision, smart healthcare, and embodied intelligent surgical robot navigation systems. Between Sep. 2022 and Sep. 2025, he served as an associate professor at Guangzhou University in China. Prior to this, Dr. Pang worked as a machine learning scientist at Moffett AI in Los Altos, CA, from April 2021 to May 2022. He also held instructor positions at the University of Colorado Denver (Department of Electrical Engineering) and Metropolitan State University of Denver (Department of Electrical Engineering Technology) from August 2018 to May.
               </p>
               <div className="mt-3 text-xs text-gray-600">
                 <div> <span className="font-bold">Address:</span> 1068 Xueyuan Avenue, Shenzhen University Town, Shenzhen, 518055 China | <span className="font-bold">Email:</span> yanpang@siat.ac.cn</div>
