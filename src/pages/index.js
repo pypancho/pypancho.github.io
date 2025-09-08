@@ -149,7 +149,7 @@ const IndexPage = () => {
             <div className="flex-1 ml-3 mt-3 md:mt-0 text-justify">
               <p className="mt-3">
               <b>Associate professor</b> at the <b>Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences</b>, China. </p>
-              <p className="mt-3">Dr. Pang earned his Ph.D. from the University of Colorado in 2021. His research focuses on computer vision, smart healthcare, and embodied intelligent surgical robot navigation systems. Between Sep. 2022 and Sep. 2025, he served as an associate professor at Guangzhou University in China. Prior to this, Dr. Pang worked as a machine learning scientist at Moffett AI in Los Altos, CA, from April 2021 to May 2022. He also held instructor positions at the University of Colorado Denver (Department of Electrical Engineering) and Metropolitan State University of Denver (Department of Electrical Engineering Technology) from August 2018 to May.
+              <p className="mt-3">Dr. Pang earned his Ph.D. from the University of Colorado in 2021. His research focuses on computer vision, smart healthcare, and embodied intelligent surgical robot navigation systems. Between Sep. 2022 and Sep. 2025, he served as an associate professor at Guangzhou University in China. Prior to this, Dr. Pang worked as a machine learning scientist at Moffett AI in Los Altos, CA, from April 2021 to May 2022. He also held instructor positions at the University of Colorado Denver (Department of Electrical Engineering) and Metropolitan State University of Denver (Department of Electrical Engineering Technology) from August 2018 to May 2021.
               </p>
               <div className="mt-3 text-xs text-gray-600">
                 <div> <span className="font-bold">Address:</span> 1068 Xueyuan Avenue, Shenzhen University Town, Shenzhen, 518055 China | <span className="font-bold">Email:</span> yanpang@siat.ac.cn</div>
@@ -180,7 +180,7 @@ const IndexPage = () => {
 
           <div id="news">
             <div className="text-blue-800 text-xl font-bold">News</div>
-            <div className="text-sm pl-10 py-3">
+            <div className="text-sm pl-10 py-3 text-justify">
               <ul className="list-disc">
                 <li>[Aug 25, 2025] <b>NEW:</b> One paper has been published in the Journal of IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/Slim-UNETRV2" target="_blank">Code</a> is released.</li>
                 <li>[Aug 23, 2025] <b>NEW:</b> 🎉 Success! Papers 1614, 1833, and 2000 from our group are presented at <a className="text-blue-600 text-sm" href="http://2025.prcv.cn/" target="_blank">PRCV 2025</a> in Shanghai. Proud of my students' contributions to the field! </li>
