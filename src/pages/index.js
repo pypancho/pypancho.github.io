@@ -175,7 +175,7 @@ const IndexPage = () => {
                 <li>Graph Neural Networks</li>
                 <li>Semantic Segmentation</li>
                 <li>Key Points Detection</li>
-                <li>Knowledge Distillation</li>
+                <li>Blockchain Security</li>
                 <li>Photography</li>
                 {/* <li>
                   <a className="text-blue-600 text-sm" href="https://www.instagram.com/pypancho/" target="_blank">Photography</a>
