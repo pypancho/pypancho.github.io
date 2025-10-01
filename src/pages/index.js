@@ -318,6 +318,8 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Patents</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
+                <li>一种文本生成粤剧视频的方法、装置、电子设备及介质，授权号: ZL202411065751.1</li>
+                <li>基于多模态图像的脊柱检测方法、装置、设备及存储介质，授权号: ZL202411752951.4</li>
                 <li>一种医学图像分割方法、装置及介质，授权号: ZL202410616680.3</li>
                 <li>用户身份识别方法、系统、设备及存储介质, 授权号: ZL202410633064.9</li>
                 <li>防御模型被窃取攻击的方法、系统、设备及存储介质, 授权号: ZL202410456738.2 </li>
