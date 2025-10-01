@@ -10,7 +10,13 @@ const pageStyles = {
 // data
 const links = [
     {
-    author: <div><span className="font-bold">Yan Pang</span>, Yunhao Li, Jiaming Liang, Hao Chen, Ying Hu, Hao Chen, Qiong Wang</div>,
+    author: <div><span className="font-bold">Yan Pang</span>, Yucheng Long, Zibin Chen, Ying Hu, Hao Chen, Qiong Wang</div>,
+    title: "Endoscopic Adaptive Transformer for Enhanced Polyp Segmentation in Endoscopic Imaging",
+    jounal: "IEEE Transactions on Medical Imaging",
+    paper: "https://doi.org/10.1109/TMI.2025.3615677",
+    },
+    {
+    author: <div><span className="font-bold">Yan Pang</span>, Yunhao Li, Jiaming Liang, Hao Chen, Ying Hu, Qiong Wang</div>,
     title: "SegTom: A 3D Volumetric Medical Image Segmentation Framework for Thoracoabdominal Multi-Organ Anatomical Structures",
     jounal: "IEEE Journal of Biomedical and Health Informatics",
     paper: "https://doi.org/10.1109/JBHI.2025.3606266",
@@ -188,6 +194,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3 text-justify">
               <ul className="list-disc">
+                <li>[Sep 29, 2025] <b>NEW:</b> One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/EAT" target="_blank">Code</a> is released.</li>
                 <li>[Sep 05, 2025] <b>NEW:</b> One paper has been published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/SegTom" target="_blank">Code</a> is released.</li>
                 <li>[Aug 25, 2025] One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/Slim-UNETRV2" target="_blank">Code</a> is released.</li>
                 <li>[Aug 23, 2025] 🎉 Success! Papers 1614, 1833, and 2000 from our group are presented at <a className="text-blue-600 text-sm" href="http://2025.prcv.cn/" target="_blank">PRCV 2025</a> in Shanghai. Proud of my students' contributions to the field! </li>
@@ -365,7 +372,7 @@ const IndexPage = () => {
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2025 Yan Pang. All rights reserved</div>
-          <div>(Last update: Sep 15, 2025.)</div>
+          <div>(Last update: Oct 01, 2025.)</div>
         </div>
       </div>
     </main>
