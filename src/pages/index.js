@@ -258,7 +258,12 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Invited Talks</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                  <li>[Jul 20th, 2025] Shenzhen, China:
+              <li>[Sep 19th, 2025] Jinan, China:
+                  <div>  
+                      “Real-Time Medical Image Processing via On-Device Model Architectures Integrated on AI Chips”, China Association of Chinese Medicine;
+                  </div>
+                </li>
+                <li>[Jul 20th, 2025] Shenzhen, China:
                   <div>  
                       “Embodied Intelligent Surgical Robots: A Paradigm Shift from Passive Tools to Active Partners”, South China Hospital of Shenzhen University;
                   </div>
