@@ -194,6 +194,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3 text-justify">
               <ul className="list-disc">
+                <li>[Oct 09, 2025] Joined to Chinese Academy of Sciences.</li>
                 <li>[Sep 29, 2025] <b>NEW:</b> One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/EAT" target="_blank">Code</a> is released.</li>
                 <li>[Sep 05, 2025] <b>NEW:</b> One paper has been published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/SegTom" target="_blank">Code</a> is released.</li>
                 <li>[Aug 25, 2025] One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/Slim-UNETRV2" target="_blank">Code</a> is released.</li>
