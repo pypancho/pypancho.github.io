@@ -10,6 +10,12 @@ const pageStyles = {
 // data
 const links = [
     {
+    author: Jiahui Huang, Jiaxin Huang, Mingdu Zhang, Qiong Wang, Xiao-Qing Pei, Ying Hu, Hao Chen，<div><span className="font-bold">Yan Pang *</span></div>,
+    title: "UltraMamba: Mamba-based Multimodal Ultrasound Image Adaptive Fusion for Breast Lesion Segmentation",
+    jounal: "IEEE Transactions on Medical Imaging",
+    paper: "https://doi.org/10.1109/TMI.2026.3653779",
+    },
+    {
     author: <div><span className="font-bold">Yan Pang</span>, Yucheng Long, Zibin Chen, Ying Hu, Hao Chen, Qiong Wang</div>,
     title: "Endoscopic Adaptive Transformer for Enhanced Polyp Segmentation in Endoscopic Imaging",
     jounal: "IEEE Transactions on Medical Imaging",
@@ -194,9 +200,10 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3 text-justify">
               <ul className="list-disc">
+                <li>[Jan 13, 2026] <b>NEW:</b> One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/UltraMamba" target="_blank">Code</a> is released.</li>
                 <li>[Oct 09, 2025] Joined to Chinese Academy of Sciences.</li>
-                <li>[Sep 29, 2025] <b>NEW:</b> One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/EAT" target="_blank">Code</a> is released.</li>
-                <li>[Sep 05, 2025] <b>NEW:</b> One paper has been published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/SegTom" target="_blank">Code</a> is released.</li>
+                <li>[Sep 29, 2025] One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/EAT" target="_blank">Code</a> is released.</li>
+                <li>[Sep 05, 2025] One paper has been published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/SegTom" target="_blank">Code</a> is released.</li>
                 <li>[Aug 25, 2025] One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/Slim-UNETRV2" target="_blank">Code</a> is released.</li>
                 <li>[Aug 23, 2025] 🎉 Success! Papers 1614, 1833, and 2000 from our group are presented at <a className="text-blue-600 text-sm" href="http://2025.prcv.cn/" target="_blank">PRCV 2025</a> in Shanghai. Proud of my students' contributions to the field! </li>
                 <li>[Jul 30, 2025] One paper has been published in the IEEE Transactions on Big Data. (IF: 5.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/Consense" target="_blank">Code</a> is released.</li>
@@ -259,7 +266,12 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Invited Talks</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-              <li>[Sep 19th, 2025] Jinan, China:
+                <li>[Dec 21st, 2025] Jinan, China:
+                  <div>  
+                      “Research Progress in Medical Artificial Intelligence and Surgical Robotics”, Academic Annual Conference of Guangdong Research-based Medicine Association;
+                  </div>
+                </li>
+                <li>[Sep 19th, 2025] Jinan, China:
                   <div>  
                       “Real-Time Medical Image Processing via On-Device Model Architectures Integrated on AI Chips”, China Association of Chinese Medicine;
                   </div>
@@ -379,8 +391,8 @@ const IndexPage = () => {
         
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
-          <div>© 2025 Yan Pang. All rights reserved</div>
-          <div>(Last update: Oct 10, 2025.)</div>
+          <div>© 2026 Yan Pang. All rights reserved</div>
+          <div>(Last update: Jan 13, 2025.)</div>
         </div>
       </div>
     </main>
