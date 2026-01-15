@@ -10,7 +10,7 @@ const pageStyles = {
 // data
 const links = [
     {
-    author: <div> Jiahui Huang, Jiaxin Huang, Mingdu Zhang, Qiong Wang, Xiao-Qing Pei, Ying Hu, Hao Chen，<span className="font-bold">Yan Pang *</span></div>,
+    author: <div> Jiahui Huang, Jiaxin Huang, Mingdu Zhang, Qiong Wang, Xiao-Qing Pei, Ying Hu, Hao Chen，<span className="font-bold">Yan Pang*</span></div>,
     title: "UltraMamba: Mamba-based Multimodal Ultrasound Image Adaptive Fusion for Breast Lesion Segmentation",
     jounal: "IEEE Transactions on Medical Imaging",
     paper: "https://doi.org/10.1109/TMI.2026.3653779",
@@ -40,31 +40,31 @@ const links = [
     paper: "https://ieeexplore.ieee.org/document/11104930",
     },
     {
-    author: <div> Teng Huang, Jiahui Huang, Changyu Dong, Sisi Duan, <span className="font-bold">Yan Pang *</span></div>,
+    author: <div> Teng Huang, Jiahui Huang, Changyu Dong, Sisi Duan, <span className="font-bold">Yan Pang*</span></div>,
     title: "SAMamba: Structure-Aware Mamba for Ethereum Fraud Detection",
     jounal: "IEEE Transactions on Information Forensics and Security",
     paper: "https://ieeexplore.ieee.org/document/11080015",
    },
     {
-    author: <div> Jiahui Huang, Teng Huang, Changyu Dong, Sisi Duan, <span className="font-bold">Yan Pang *</span></div>,
+    author: <div> Jiahui Huang, Teng Huang, Changyu Dong, Sisi Duan, <span className="font-bold">Yan Pang*</span></div>,
     title: "Hierarchical Network with Local-Global Awareness for Ethereum Account De-anonymization",
     jounal: "IEEE Transactions on Systems, Man and Cybernetics: Systems",
     paper: "https://ieeexplore.ieee.org/document/11037616",
    },
    {
-    author: <div> <span className="font-bold">Yan Pang </span>, Yunhao Li, Teng Huang, Jiaming Liang, Ziyu Ding, Hao Chen, Baoliang Zhao, Ying Hu, Zheng Zhang, Qiong Wang</div>,
+    author: <div> <span className="font-bold">Yan Pang</span>, Yunhao Li, Teng Huang, Jiaming Liang, Ziyu Ding, Hao Chen, Baoliang Zhao, Ying Hu, Zheng Zhang, Qiong Wang</div>,
     title: "Efficient Breast Lesion Segmentation from Ultrasound Videos Across Multiple Source-limited Platforms",
     jounal: "IEEE Journal of Biomedical and Health Informatics",
     paper: "https://ieeexplore.ieee.org/document/10892059",
    },
    {
-    author: <div> <span className="font-bold">Yan Pang </span>, Yunhao Li, Teng Huang, Jiaming Liang, Zhen Wang, Changyu Dong, Dongyang Kuang, Ying Hu, Hao Chen, Tim Lei, Qiong Wang</div>,
+    author: <div> <span className="font-bold">Yan Pang</span>, Yunhao Li, Teng Huang, Jiaming Liang, Zhen Wang, Changyu Dong, Dongyang Kuang, Ying Hu, Hao Chen, Tim Lei, Qiong Wang</div>,
     title: "Online Self-distillation and Self-modeling for 3D Brain Tumor Segmentation",
     jounal: "IEEE Journal of Biomedical and Health Informatics",
     paper: "https://doi.org/10.1109/JBHI.2025.3530715",
   },
   {
-    author: <div>Teng Huang, Yile Hong, <span className="font-bold">Yan Pang *</span>, Jiaming Liang, Jie Hong, Lin Huang, Yuan Zhang, Yan Jia, Patrizia Savi</div>,
+    author: <div>Teng Huang, Yile Hong, <span className="font-bold">Yan Pang*</span>, Jiaming Liang, Jie Hong, Lin Huang, Yuan Zhang, Yan Jia, Patrizia Savi</div>,
     title: "AdaptFormer: An Adaptive Hierarchical Semantic Approach for Change Detection on Remote Sensing Images",
     jounal: "IEEE Transactions on Instrumentation and Measurement",
     paper: "https://doi.org/10.1109/TIM.2024.3387494",
@@ -76,13 +76,13 @@ const links = [
     paper: "https://doi.org/10.1109/TMI.2023.3326188",
   },
   {
-    author: <div>Zhen Wang, Yang Zhang, <span className="font-bold">Yan Pang *</span>, Nannan Wang, Mohamed Jaward Bah, Ke Li, Ji Zhang</div>,
+    author: <div>Zhen Wang, Yang Zhang, <span className="font-bold">Yan Pang*</span>, Nannan Wang, Mohamed Jaward Bah, Ke Li, Ji Zhang</div>,
     title: "Toward Learning Joint Inference Tasks for IASS-MTS Using Dual Attention Memory With Stochastic Generative Imputation",
     jounal: "IEEE Transactions on Neural Networks and Learning Systems",
     paper: "https://doi.org/10.1109/TNNLS.2023.3305542",
   },
   {
-    author: <div>Teng Huang, Jiahui Huang, <span className="font-bold">Yan Pang *</span>, Hongyang Yan</div>,
+    author: <div>Teng Huang, Jiahui Huang, <span className="font-bold">Yan Pang*</span>, Hongyang Yan</div>,
     title: "Smart Contract Watermarking Based on Code Obfuscation",
     jounal: "Information Sciences",
     paper: "https://doi.org/10.1016/j.ins.2023.01.126",
