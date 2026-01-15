@@ -10,7 +10,7 @@ const pageStyles = {
 // data
 const links = [
     {
-    author: Jiahui Huang, Jiaxin Huang, Mingdu Zhang, Qiong Wang, Xiao-Qing Pei, Ying Hu, Hao Chen，<div><span className="font-bold">Yan Pang *</span></div>,
+    author: <div> Jiahui Huang, Jiaxin Huang, Mingdu Zhang, Qiong Wang, Xiao-Qing Pei, Ying Hu, Hao Chen，<span className="font-bold">Yan Pang *</span></div>,
     title: "UltraMamba: Mamba-based Multimodal Ultrasound Image Adaptive Fusion for Breast Lesion Segmentation",
     jounal: "IEEE Transactions on Medical Imaging",
     paper: "https://doi.org/10.1109/TMI.2026.3653779",
