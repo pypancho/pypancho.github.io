@@ -379,7 +379,7 @@ const IndexPage = () => {
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
                 <li>Graduates of 2024: Jie Hong（港科广）, Dan Li（广松职）, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang（华南理工）</a></li>
-                <li>Graduates of 2025: <a className="text-blue-600 text-sm" href={"https://yunhaoli.top/"} target="_blank">Yunhao Li（香港理工）</a>, Yile Hong（得知智能）, Hui Li（卓越教育）, Mingwei Chen（农商银行）</li>
+                <li>Graduates of 2025: <a className="text-blue-600 text-sm" href={"https://yunhaoli.top/"} target="_blank">Yunhao Li（香港理工）</a>, Yile Hong（得知智能）, Hui Li（卓越教育）, Mingwei Chen（农商银行）, Weiqing Kong（小鹏汽车）</li>
                 <li>Third-Year Student: Caiyan Tan, Yanjun Ming, Mingdu Zhang, Xiangfu Liu, Zibin Chen</li>
                 <li>Second-Year Student: Aoying Wang, Xin Wang</li>
                 <li>First-Year Student: <a className="text-blue-600 text-sm" href={"https://leixin.me/"} target="_blank">Xin Lei</a>, Qinjian Yan</li>
