@@ -382,7 +382,7 @@ const IndexPage = () => {
                 <li>Graduates of 2025: <a className="text-blue-600 text-sm" href={"https://yunhaoli.top/"} target="_blank">Yunhao Li（香港理工）</a>, Yile Hong（得知智能）, Hui Li（卓越教育）, Mingwei Chen（农商银行）, Weiqing Kong（小鹏汽车）</li>
                 <li>Third-Year Student: Caiyan Tan, Yanjun Ming, Mingdu Zhang, Xiangfu Liu, Zibin Chen</li>
                 <li>Second-Year Student: Aoying Wang, Xin Wang</li>
-                <li>First-Year Student: <a className="text-blue-600 text-sm" href={"https://leixin.me/"} target="_blank">Xin Lei</a>, Qinjian Yan</li>
+                <li>First-Year Student: <a className="text-blue-600 text-sm" href={"https://leixin.me/"} target="_blank">Xin Lei</a>, Xinyu Li, Qinjian Yan</li>
                 </ul>
             </div>
           </div>
