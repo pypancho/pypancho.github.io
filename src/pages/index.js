@@ -278,7 +278,7 @@ const IndexPage = () => {
                       “Cutting-Edge Technological Advances in Embodied Intelligence for Surgical Robotics”, 18th International Conference on Machine Learning and Computing;
                   </div>
                 </li>
-                <li>[Dec 21st, 2025] Jinan, China:
+                <li>[Dec 21st, 2025] Guangzhou, China:
                   <div>  
                       “Research Progress in Medical Artificial Intelligence and Surgical Robotics”, Academic Annual Conference of Guangdong Research-based Medicine Association;
                   </div>
