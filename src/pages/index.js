@@ -10,6 +10,12 @@ const pageStyles = {
 // data
 const links = [
     {
+    author: <div> Jiahui Huang, Junming Yan, Qiong Wang, Qingjie Meng, Jinpeng Li, <span className="font-bold">Yan Pang*</span></div>,
+    title: "OCTMamba: A Lightweight Ear Segmentation Framework for 3D Portable Endoscopic OCT Scanner",
+    jounal: "Expert Systems with Applications",
+    paper: "https://doi.org/10.1016/j.eswa.2026.131678",
+    },
+    {
     author: <div> Jiahui Huang, Jiaxin Huang, Mingdu Zhang, Qiong Wang, Xiao-Qing Pei, Ying Hu, Hao Chen，<span className="font-bold">Yan Pang*</span></div>,
     title: "UltraMamba: Mamba-based Multimodal Ultrasound Image Adaptive Fusion for Breast Lesion Segmentation",
     jounal: "IEEE Transactions on Medical Imaging",
@@ -200,6 +206,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3 text-justify">
               <ul className="list-disc">
+                <li>[Feb 14, 2026] <b>NEW:</b> One paper has been published in the Expert Systems with Applications. (IF: 7.5).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/OCTMamba" target="_blank">Code</a> is released.</li>
                 <li>[Jan 13, 2026] <b>NEW:</b> One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/UltraMamba" target="_blank">Code</a> is released.</li>
                 <li>[Oct 09, 2025] Joined to Chinese Academy of Sciences.</li>
                 <li>[Sep 29, 2025] One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/EAT" target="_blank">Code</a> is released.</li>
@@ -393,7 +400,7 @@ const IndexPage = () => {
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2026 Yan Pang. All rights reserved</div>
-          <div>(Last update: Jan 13, 2025.)</div>
+          <div>(Last update: Feb 14, 2026.)</div>
         </div>
       </div>
     </main>
