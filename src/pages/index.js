@@ -273,6 +273,11 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Invited Talks</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
+                <li>[Feb 07th, 202]Nanjing, China:
+                  <div>  
+                      “Cutting-Edge Technological Advances in Embodied Intelligence for Surgical Robotics”, 18th International Conference on Machine Learning and Computing;
+                  </div>
+                </li>
                 <li>[Dec 21st, 2025] Jinan, China:
                   <div>  
                       “Research Progress in Medical Artificial Intelligence and Surgical Robotics”, Academic Annual Conference of Guangdong Research-based Medicine Association;
@@ -305,7 +310,7 @@ const IndexPage = () => {
                   </div>
                 </li>
                     
-                <li>[Feb. 5th, 2024] Shenzhen, China:
+                <li>[Feb. 05th, 2024] Shenzhen, China:
                   <div>  
                       “Enhancing Medical Image Analysis by Achieving an Optimal Balance Between Accuracy and Efficiency in Resource-Limited Platforms”, 16th International Conference on Machine Learning and Computing;
                   </div>
@@ -323,13 +328,13 @@ const IndexPage = () => {
                   </div>
                 </li>  
 
-                <li>[Dec. 1st, 2023] Luoyang, China:
+                <li>[Dec. 01st, 2023] Luoyang, China:
                   <div>  
                       “Application of Large-scale Model of Multimodal Medical Image Analysis”, The First Affiliated Hospital of Henan University of Science & Technology;
                   </div>
                 </li>  
 
-                <li>[Jun. 7th, 2023] Zhuhai, China:
+                <li>[Jun. 07th, 2023] Zhuhai, China:
                   <div>  
                       “Adaptive Graph Representation Learning”, Sun Yat-Sen University;
                   </div>
