@@ -273,7 +273,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Invited Talks</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>[Feb 07th, 202]Nanjing, China:
+                <li>[Feb 07th, 202] Nanjing, China:
                   <div>  
                       “Cutting-Edge Technological Advances in Embodied Intelligence for Surgical Robotics”, 18th International Conference on Machine Learning and Computing;
                   </div>
