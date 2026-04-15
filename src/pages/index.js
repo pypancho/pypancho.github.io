@@ -348,12 +348,13 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">Patents</div>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>一种文本生成粤剧视频的方法、装置、电子设备及介质，授权号: ZL202411065751.1</li>
+                <li>端侧模型的医学图像分析方法、装置、设备及存储介质，授权号: ZL202411705738.8</li>
                 <li>基于多模态图像的脊柱检测方法、装置、设备及存储介质，授权号: ZL202411752951.4</li>
                 <li>一种医学图像分割方法、装置及介质，授权号: ZL202410616680.3</li>
                 <li>用户身份识别方法、系统、设备及存储介质, 授权号: ZL202410633064.9</li>
                 <li>防御模型被窃取攻击的方法、系统、设备及存储介质, 授权号: ZL202410456738.2 </li>
                 <li>自蒸馏与自学习的医学图像分割方法、装置及存储介质, 授权号: ZL202410615709.6 </li>
+                <li>一种文本生成粤剧视频的方法、装置、电子设备及介质，授权号: ZL202411065751.1</li>
                 <li>医学视频乳腺病变特征快速分割方法、装置、设备及介质, 授权号: ZL202410485386.3 </li>
                 <li>基于标记移除网络的高精度钢琴手势数据集构建方法, 授权号: ZL202411072622.5 </li>                
                 <li>图像识别方法、装置、设备及存储介质, 授权号: ZL202410623942.9 </li>
@@ -405,7 +406,7 @@ const IndexPage = () => {
 
         <div className="h-48 bg-gray-200 text-center pt-16 text-sm text-gray-500">
           <div>© 2026 Yan Pang. All rights reserved</div>
-          <div>(Last update: Feb 14, 2026.)</div>
+          <div>(Last update: Apr. 15, 2026.)</div>
         </div>
       </div>
     </main>
