@@ -233,7 +233,6 @@ const IndexPage = () => {
                 <li>[Apr 12, 2021] Joined to Moffett AI, Los Altos, CA.</li>
                 <li>[Nov 01, 2020] One paper has been published in the Journal of Computers and Electronics in Agriculture. </li>
                 <li>[Mar 01, 2020] One paper has been published in the Journal of Neuroscience Methods. </li>
-                <li>[Apr 24, 2019] One paper is accepted to Science and Information Conference</li>
               </ul>
             </div>
           </div>
@@ -388,11 +387,20 @@ const IndexPage = () => {
               
           <div id="students">
             <div className="text-blue-800 text-xl font-bold">Students</div>
+
+            <p className="text-sm font-bold"> Co-Advised PhD Students: </p>
+            <div className="text-sm pl-10 py-3">
+              <ul className="list-disc">
+                <li><a className="text-blue-600 text-sm" href={"https://yunhaoli.top/"} target="_blank">Yunhao Li</a>, Linting Huang</li>
+                </ul>
+            </div>
+
+                    
             <p className="text-sm font-bold">  Masters: </p>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
                 <li>Graduates of 2024: Jie Hong（港科广）, Dan Li（广松职）, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang（华南理工）</a></li>
-                <li>Graduates of 2025: <a className="text-blue-600 text-sm" href={"https://yunhaoli.top/"} target="_blank">Yunhao Li（香港理工）</a>, Yile Hong（得知智能）, Hui Li（卓越教育）, Mingwei Chen（农商银行）, Weiqing Kong（小鹏汽车）</li>
+                <li>Graduates of 2025: Yunhao Li（香港理工）, Yile Hong（得知智能）, Hui Li（卓越教育）, Mingwei Chen（农商银行）, Weiqing Kong（小鹏汽车）</li>
                 <li>Third-Year Student: Caiyan Tan, Junming Yan, Mingdu Zhang, Xiangfu Liu, Zibin Chen</li>
                 <li>Second-Year Student: Aoying Wang, Xin Wang</li>
                 <li>First-Year Student: <a className="text-blue-600 text-sm" href={"https://leixin.me/"} target="_blank">Xin Lei</a>, Xinyu Li, Qinjian Yan</li>
