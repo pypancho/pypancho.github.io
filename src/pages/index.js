@@ -400,9 +400,9 @@ const IndexPage = () => {
             <p className="text-sm font-bold">  Masters: </p>
             <div className="text-sm pl-10 py-3">
               <ul className="list-disc">
-                <li>Graduates of 2024: Jie Hong（港科广）, Dan Li（广松职）, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang（华南理工）</a></li>
-                <li>Graduates of 2025: Yunhao Li（香港理工）, Yile Hong（得知智能）, Hui Li（卓越教育）, Mingwei Chen（农商银行）, Weiqing Kong（小鹏汽车）</li>
-                <li>Graduates of 2026: Caiyan Tan（小鹏汽车）, Junming Yan（安科）, Mingdu Zhang（中国科学院深圳先进技术研究院）, Zibin Chen（英维克），Xiangfu Liu（东方财富证券公司）</li>
+                <li>Graduates of 2024: Jie Hong（香港科技大学广州）, Dan Li（广松职）, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang（华南理工大学-博）</a></li>
+                <li>Graduates of 2025: Yunhao Li（香港理工大学-博）, Yile Hong（得知智能）, Hui Li（卓越教育）, Mingwei Chen（农商银行）, Weiqing Kong（小鹏汽车）</li>
+                <li>Graduates of 2026: Caiyan Tan（小鹏汽车）, Junming Yan（安科）, Mingdu Zhang（中国科学院深圳先进技术研究院-博）, Zibin Chen（英维克），Xiangfu Liu（东方财富证券公司）</li>
                 <li>Second-Year Student: Aoying Wang, Xin Wang</li>
                 <li>First-Year Student: <a className="text-blue-600 text-sm" href={"https://leixin.me/"} target="_blank">Xin Lei</a>, Xinyu Li, Qinjian Yan</li>
                 </ul>
