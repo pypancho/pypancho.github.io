@@ -206,6 +206,7 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3 text-justify">
               <ul className="list-disc">
+                <li>[Jun 13, 2026] 🎉 Success! Paper 555 from our group are presented at <a className="text-blue-600 text-sm" href="https://conferences.miccai.org/2026/" target="_blank">MICCAI 2026</a> in Strasbourg, France. Proud of my students' contributions to the field! </li>
                 <li>[Feb 14, 2026] <b>NEW:</b> One paper has been published in the Expert Systems with Applications. (IF: 7.5).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/OCTMamba" target="_blank">Code</a> is released.</li>
                 <li>[Jan 13, 2026] <b>NEW:</b> One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 9.8).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/UltraMamba" target="_blank">Code</a> is released.</li>
                 <li>[Oct 09, 2025] Joined to Chinese Academy of Sciences.</li>
@@ -402,8 +403,8 @@ const IndexPage = () => {
               <ul className="list-disc">
                 <li>Graduates of 2024: Jie Hong（香港科技大学广州）, Dan Li（广松职）, <a className="text-blue-600 text-sm" href={"https://jeming-creater.github.io/"} target="_blank">Jiaming Liang（华南理工-博）</a></li>
                 <li>Graduates of 2025: Yunhao Li（香港理工-博）, Yile Hong（得知智能）, Hui Li（卓越教育）, Mingwei Chen（农商银行）, Weiqing Kong（小鹏汽车）</li>
-                <li>Graduates of 2026: Caiyan Tan（小鹏汽车）, Junming Yan（安科）, Mingdu Zhang（中国科学院深圳先进技术研究院-博）, Zibin Chen（英维克），Xiangfu Liu（东方财富证券公司）</li>
-                <li>Third-Year Student: Aoying Wang</li>
+                <li>Graduates of 2026: Caiyan Tan（小鹏汽车）, Junming Yan（佛山电信）, Mingdu Zhang（中国科学院深圳先进技术研究院-博）, Zibin Chen（英维克），Xiangfu Liu（东方财富证券公司）</li>
+                <li>Third-Year Student: Xin Wang, Aoying Wang</li>
                 <li>Second-Year Student: <a className="text-blue-600 text-sm" href={"https://leixin.me/"} target="_blank">Xin Lei</a>, Xinyu Li, Qinjian Yan</li>
                 <li>First-Year Student: Jiayin Li</li>
                 </ul>
