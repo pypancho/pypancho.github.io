@@ -212,10 +212,10 @@ const IndexPage = () => {
             <div className="text-blue-800 text-xl font-bold">News</div>
             <div className="text-sm pl-10 py-3 text-justify">
               <ul className="list-disc">
-                <li>[Feb 14, 2026] <b>NEW:</b> One paper has been published in Expert Systems with Applications. (IF: 9.4).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/HiLo" target="_blank">Code</a> is released.</li>
+                <li>[Jul 03, 2026] <b>NEW:</b> One paper has been published in Expert Systems with Applications. (IF: 9.4).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/HiLo" target="_blank">Code</a> is released.</li>
                 <li>[Jun 13, 2026] 🎉 Success! Paper 555 from our group is presented at <a className="text-blue-600 text-sm" href="https://conferences.miccai.org/2026/" target="_blank">MICCAI 2026</a> in Strasbourg, France. Proud of my students' contributions to the field! </li>
-                <li>[Feb 14, 2026] <b>NEW:</b> One paper has been published in Expert Systems with Applications. (IF: 9.4).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/OCTMamba" target="_blank">Code</a> is released.</li>
-                <li>[Jan 13, 2026] <b>NEW:</b> One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 12.4).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/UltraMamba" target="_blank">Code</a> is released.</li>
+                <li>[Feb 14, 2026] One paper has been published in Expert Systems with Applications. (IF: 9.4).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/OCTMamba" target="_blank">Code</a> is released.</li>
+                <li>[Jan 13, 2026] One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 12.4).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/UltraMamba" target="_blank">Code</a> is released.</li>
                 <li>[Oct 09, 2025] Joined to Chinese Academy of Sciences.</li>
                 <li>[Sep 29, 2025] One paper has been published in the IEEE Transactions on Medical Imaging. (IF: 12.4).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/EAT" target="_blank">Code</a> is released.</li>
                 <li>[Sep 05, 2025] One paper has been published in the IEEE Journal of Biomedical and Health Informatics. (IF: 7.7).  <a className="text-blue-600 text-sm" href="https://github.com/deepang-ai/SegTom" target="_blank">Code</a> is released.</li>
