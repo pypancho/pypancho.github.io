@@ -1,11 +1,3 @@
-# Yan Pang — Academic Homepage
-
-Official academic homepage of **Dr. Yan Pang**, Associate Professor at the
-Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences,
-and IEEE Senior Member.
-
-**Website:** https://pangyan.me/
-
 This repository contains a lightweight static website designed for direct
 deployment with GitHub Pages. It does not require Node.js, Python, Gatsby,
 React, or any build framework.
