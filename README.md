@@ -53,15 +53,6 @@ git commit -m "Deploy academic homepage"
 git push origin main
 ```
 
-## Custom domain
-
-The `CNAME` file is configured for:
-
-```text
-pangyan.me
-```
-
-Keep this file in the repository root when deploying to GitHub Pages.
 
 ## Updating content
 
@@ -84,6 +75,6 @@ formatted CV output.
 
 ## License / content
 
-Website source and content are maintained by Yan Pang. Third-party publication
+Third-party publication
 links, institutional links, and referenced research resources remain subject
 to their respective owners' terms.
