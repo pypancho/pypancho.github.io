@@ -74,6 +74,7 @@
         const title = (row.querySelector('.pub-title')?.textContent || '').trim();
         const authors = (row.querySelector('.pub-authors')?.textContent || '').trim();
         const venue = (row.querySelector('.pub-meta')?.textContent || '').trim();
+        const badgeNode = row.querySelector('.pub-badge');
 
         if (!title) return;
 
@@ -82,7 +83,16 @@
 
         const titleEl = document.createElement('span');
         titleEl.className = 'print-pub-title';
-        titleEl.textContent = title;
+
+        if (badgeNode) {
+          const badge = document.createElement('img');
+          badge.className = 'print-pub-badge';
+          badge.src = badgeNode.getAttribute('src');
+          badge.alt = badgeNode.getAttribute('alt') || 'Highly cited paper';
+          titleEl.appendChild(badge);
+        }
+
+        titleEl.appendChild(document.createTextNode(title));
         li.appendChild(titleEl);
 
         if (authors) {
