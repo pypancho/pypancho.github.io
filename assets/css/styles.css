@@ -1250,3 +1250,34 @@ button{cursor:pointer}
     object-fit:contain!important;
   }
 }
+
+/* Research Topics — subtle interactive hover demo */
+.research-interests .topic-card{
+  transform:translateY(0);
+  transition:transform .26s cubic-bezier(.2,.75,.25,1),
+             box-shadow .26s ease,
+             border-color .26s ease;
+  will-change:transform;
+}
+.research-interests .topic-card .topic-art{
+  transition:transform .32s cubic-bezier(.2,.75,.25,1);
+}
+@media (hover:hover) and (pointer:fine){
+  .research-interests .topic-card:hover{
+    transform:translateY(-8px)!important;
+    border-color:#bfd7ea;
+    box-shadow:0 16px 34px rgba(31,74,119,.13)!important;
+  }
+  .research-interests .topic-card:hover .topic-art{
+    transform:scale(1.025);
+  }
+}
+@media (prefers-reduced-motion:reduce){
+  .research-interests .topic-card,
+  .research-interests .topic-card .topic-art{
+    transition:none!important;
+  }
+  .research-interests .topic-card:hover{
+    transform:none!important;
+  }
+}
